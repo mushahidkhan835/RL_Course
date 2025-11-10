@@ -1,0 +1,860 @@
+{"image": "./circuit_images_resized/data6146.png", "code": "CNOT(wires=[58, 79])\nAdjoint(T(138))\nT(78)\nT(139)\nCNOT(wires=[37, 128])"}
+{"image": "./circuit_images_resized/data6311.png", "code": "CNOT(wires=[48, 135])\nT(51)\nAdjoint(T(85))\nCNOT(wires=[86, 136])\nCNOT(wires=[53, 137])"}
+{"image": "./circuit_images_resized/data7832.png", "code": "T(18)\nAdjoint(T(116))\nCNOT(wires=[117, 134])\nCNOT(wires=[20, 135])\nCNOT(wires=[114, 136])"}
+{"image": "./circuit_images_resized/data6186.png", "code": "Adjoint(T(139))\nT(78)\nT(140)\nCNOT(wires=[92, 128])\nCNOT(wires=[38, 129])"}
+{"image": "./circuit_images_resized/data6638.png", "code": "T(92)\nT(138)\nCNOT(wires=[50, 89])\nAdjoint(T(139))\nT(140)"}
+{"image": "./circuit_images_resized/data5988.png", "code": "T(129)\nCNOT(wires=[48, 82])\nAdjoint(T(130))\nT(131)\nCNOT(wires=[50, 81])"}
+{"image": "./circuit_images_resized/data8397.png", "code": "T(146)\nCNOT(wires=[37, 109])\nAdjoint(T(147))\nT(108)\nT(148)"}
+{"image": "./circuit_images_resized/data459.png", "code": "Adjoint(T(26))\nT(28)\nAdjoint(T(29))\nT(32)\nAdjoint(T(33))"}
+{"image": "./circuit_images_resized/data4488.png", "code": "T(89)\nCNOT(wires=[23, 34])\nT(88)\nCNOT(wires=[24, 32])\nT(17)"}
+{"image": "./circuit_images_resized/data3382.png", "code": "Adjoint(T(53))\nCNOT(wires=[54, 67])\nCNOT(wires=[16, 68])\nCNOT(wires=[51, 69])\nCNOT(wires=[20, 70])"}
+{"image": "./circuit_images_resized/data4287.png", "code": "T(93)\nCNOT(wires=[29, 92])\nCNOT(wires=[62, 93])\nT(92)\nCNOT(wires=[29, 63])"}
+{"image": "./circuit_images_resized/data1588.png", "code": "Adjoint(T(22))\nT(15)\nCNOT(wires=[3, 20])\nCNOT(wires=[5, 21])\nCNOT(wires=[7, 22])"}
+{"image": "./circuit_images_resized/data4195.png", "code": "T(24)\nAdjoint(T(61))\nCNOT(wires=[62, 85])\nCNOT(wires=[26, 86])\nCNOT(wires=[59, 87])"}
+{"image": "./circuit_images_resized/data3544.png", "code": "CNOT(wires=[2, 64])\nCNOT(wires=[61, 65])\nCNOT(wires=[6, 66])\nT(9)\nAdjoint(T(58))"}
+{"image": "./circuit_images_resized/data7308.png", "code": "T(150)\nCNOT(wires=[62, 88])\nCNOT(wires=[116, 128])\nCNOT(wires=[14, 129])\nT(17)"}
+{"image": "./circuit_images_resized/data7047.png", "code": "CNOT(wires=[62, 86])\nT(17)\nAdjoint(T(111))\nCNOT(wires=[112, 128])\nCNOT(wires=[19, 129])"}
+{"image": "./circuit_images_resized/data4391.png", "code": "T(26)\nAdjoint(T(34))\nCNOT(wires=[35, 92])\nT(27)\nAdjoint(T(32))"}
+{"image": "./circuit_images_resized/data5217.png", "code": "T(82)\nCNOT(wires=[8, 42])\nT(81)\nCNOT(wires=[9, 40])\nT(80)"}
+{"image": "./circuit_images_resized/data8600.png", "code": "CNOT(wires=[41, 108])\nAdjoint(T(149))\nT(150)\nCNOT(wires=[43, 107])\nAdjoint(T(151))"}
+{"image": "./circuit_images_resized/data1230.png", "code": "CNOT(wires=[19, 20])\nCNOT(wires=[18, 19])\nH(20)\nCNOT(wires=[17, 18])\nCNOT(wires=[7, 20])"}
+{"image": "./circuit_images_resized/data7561.png", "code": "CNOT(wires=[118, 130])\nCNOT(wires=[15, 131])\nCNOT(wires=[115, 132])\nCNOT(wires=[19, 133])\nT(22)"}
+{"image": "./circuit_images_resized/data5946.png", "code": "T(128)\nCNOT(wires=[45, 83])\nAdjoint(T(129))\nT(82)\nT(130)"}
+{"image": "./circuit_images_resized/data298.png", "code": "T(23)\nCNOT(wires=[19, 21])\nH(7)\nAdjoint(T(0))\nCNOT(wires=[3, 11])"}
+{"image": "./circuit_images_resized/data2404.png", "code": "T(43)\nCNOT(wires=[12, 31])\nT(44)\nCNOT(wires=[14, 30])\nT(12)"}
+{"image": "./circuit_images_resized/data849.png", "code": "H(4)\nCNOT(wires=[0, 1])\nCNOT(wires=[4, 5])\nAdjoint(T(5))\nCNOT(wires=[2, 5])"}
+{"image": "./circuit_images_resized/data2925.png", "code": "T(10)\nCNOT(wires=[2, 11])\nT(11)\nCNOT(wires=[2, 10])\nT(2)"}
+{"image": "./circuit_images_resized/data4572.png", "code": "Adjoint(T(93))\nT(46)\nAdjoint(T(92))\nT(44)\nAdjoint(T(91))"}
+{"image": "./circuit_images_resized/data4403.png", "code": "CNOT(wires=[42, 95])\nT(23)\nAdjoint(T(39))\nCNOT(wires=[40, 94])\nT(24)"}
+{"image": "./circuit_images_resized/data7300.png", "code": "CNOT(wires=[90, 149])\nCNOT(wires=[62, 150])\nT(128)\nCNOT(wires=[15, 114])\nAdjoint(T(129))"}
+{"image": "./circuit_images_resized/data1976.png", "code": "H(25)\nAdjoint(T(29))\nT(28)\nAdjoint(T(27))\nT(15)"}
+{"image": "./circuit_images_resized/data3254.png", "code": "CNOT(wires=[50, 66])\nCNOT(wires=[18, 67])\nT(21)\nAdjoint(T(47))\nCNOT(wires=[48, 68])"}
+{"image": "./circuit_images_resized/data1262.png", "code": "T(19)\nAdjoint(T(18))\nT(8)\nCNOT(wires=[1, 20])\nCNOT(wires=[10, 19])"}
+{"image": "./circuit_images_resized/data2693.png", "code": "Adjoint(T(45))\nT(29)\nT(44)\nCNOT(wires=[1, 27])\nCNOT(wires=[2, 25])"}
+{"image": "./circuit_images_resized/data3589.png", "code": "Adjoint(T(77))\nT(47)\nT(1)\nAdjoint(T(63))\nCNOT(wires=[3, 65])"}
+{"image": "./circuit_images_resized/data4348.png", "code": "T(94)\nCNOT(wires=[28, 34])\nT(93)\nCNOT(wires=[29, 32])\nT(27)"}
+{"image": "./circuit_images_resized/data4197.png", "code": "CNOT(wires=[26, 60])\nAdjoint(T(87))\nT(59)\nT(88)\nCNOT(wires=[63, 84])"}
+{"image": "./circuit_images_resized/data2791.png", "code": "CNOT(wires=[1, 37])\nCNOT(wires=[18, 36])\nCNOT(wires=[3, 35])\nCNOT(wires=[0, 23])\nAdjoint(T(38))"}
+{"image": "./circuit_images_resized/data2948.png", "code": "CNOT(wires=[8, 16])\nT(8)\nAdjoint(T(16))\nH(17)\nCNOT(wires=[8, 16])"}
+{"image": "./circuit_images_resized/data6542.png", "code": "T(43)\nAdjoint(T(92))\nCNOT(wires=[93, 135])\nCNOT(wires=[45, 136])\nCNOT(wires=[90, 137])"}
+{"image": "./circuit_images_resized/data202.png", "code": "T(12)\nT(19)\nCNOT(wires=[15, 22])\nCNOT(wires=[18, 20])\nCNOT(wires=[11, 12])"}
+{"image": "./circuit_images_resized/data6458.png", "code": "CNOT(wires=[47, 136])\nCNOT(wires=[88, 137])\nCNOT(wires=[51, 138])\nT(54)\nAdjoint(T(85))"}
+{"image": "./circuit_images_resized/data164.png", "code": "T(29)\nCNOT(wires=[13, 26])\nT(28)\nCNOT(wires=[12, 27])\nT(13)"}
+{"image": "./circuit_images_resized/data4914.png", "code": "Adjoint(T(91))\nCNOT(wires=[8, 50])\nAdjoint(T(90))\nCNOT(wires=[9, 48])\nAdjoint(T(89))"}
+{"image": "./circuit_images_resized/data5252.png", "code": "T(82)\nCNOT(wires=[7, 43])\nT(81)\nCNOT(wires=[8, 41])\nT(80)"}
+{"image": "./circuit_images_resized/data1182.png", "code": "CNOT(wires=[10, 15])\nAdjoint(T(14))\nT(11)\nAdjoint(T(15))\nT(10)"}
+{"image": "./circuit_images_resized/data6369.png", "code": "CNOT(wires=[85, 138])\nCNOT(wires=[56, 139])\nCNOT(wires=[82, 140])\nCNOT(wires=[60, 141])\nT(63)"}
+{"image": "./circuit_images_resized/data588.png", "code": "H(3)\nX(2)\nT(17)\nT(9)\nCNOT(wires=[1, 3])"}
+{"image": "./circuit_images_resized/data4325.png", "code": "CNOT(wires=[30, 33])\nAdjoint(T(95))\nCNOT(wires=[71, 72])\nCNOT(wires=[70, 73])\nCNOT(wires=[69, 74])"}
+{"image": "./circuit_images_resized/data4873.png", "code": "T(17)\nAdjoint(T(33))\nCNOT(wires=[34, 82])\nCNOT(wires=[4, 59])\nAdjoint(T(95))"}
+{"image": "./circuit_images_resized/data8235.png", "code": "Adjoint(T(132))\nT(133)\nCNOT(wires=[10, 123])\nAdjoint(T(134))\nT(122)"}
+{"image": "./circuit_images_resized/data1040.png", "code": "H(13)\nAdjoint(T(12))\nAdjoint(T(11))\nT(0)\nAdjoint(T(9))"}
+{"image": "./circuit_images_resized/data3442.png", "code": "T(73)\nCNOT(wires=[28, 46])\nAdjoint(T(74))\nT(75)\nCNOT(wires=[30, 45])"}
+{"image": "./circuit_images_resized/data8036.png", "code": "CNOT(wires=[6, 124])\nAdjoint(T(131))\nT(123)\nT(132)\nCNOT(wires=[13, 120])"}
+{"image": "./circuit_images_resized/data2208.png", "code": "CNOT(wires=[30, 32])\nCNOT(wires=[29, 33])\nCNOT(wires=[28, 34])\nCNOT(wires=[27, 35])\nCNOT(wires=[26, 36])"}
+{"image": "./circuit_images_resized/data4085.png", "code": "CNOT(wires=[26, 57])\nAdjoint(T(84))\nT(56)\nT(85)\nT(17)"}
+{"image": "./circuit_images_resized/data301.png", "code": "CNOT(wires=[12, 14])\nCNOT(wires=[19, 21])\nCNOT(wires=[11, 15])\nT(0)\nAdjoint(T(15))"}
+{"image": "./circuit_images_resized/data4934.png", "code": "CNOT(wires=[4, 93])\nCNOT(wires=[5, 92])\nCNOT(wires=[6, 91])\nCNOT(wires=[7, 90])\nCNOT(wires=[8, 89])"}
+{"image": "./circuit_images_resized/data3599.png", "code": "CNOT(wires=[63, 65])\nCNOT(wires=[5, 66])\nCNOT(wires=[60, 67])\nCNOT(wires=[9, 68])\nT(12)"}
+{"image": "./circuit_images_resized/data7537.png", "code": "Adjoint(T(132))\nT(133)\nCNOT(wires=[20, 113])\nAdjoint(T(134))\nT(112)"}
+{"image": "./circuit_images_resized/data458.png", "code": "T(17)\nAdjoint(T(18))\nT(21)\nAdjoint(T(22))\nT(25)"}
+{"image": "./circuit_images_resized/data5300.png", "code": "CNOT(wires=[11, 34])\nAdjoint(T(77))\nCNOT(wires=[12, 32])\nAdjoint(T(76))\nCNOT(wires=[0, 87])"}
+{"image": "./circuit_images_resized/data5535.png", "code": "CNOT(wires=[40, 75])\nT(5)\nAdjoint(T(37))\nCNOT(wires=[38, 74])\nT(6)"}
+{"image": "./circuit_images_resized/data5967.png", "code": "CNOT(wires=[83, 129])\nCNOT(wires=[48, 130])\nT(51)\nAdjoint(T(80))\nCNOT(wires=[81, 131])"}
+{"image": "./circuit_images_resized/data4811.png", "code": "T(84)\nT(83)\nT(82)\nCNOT(wires=[58, 95])\nCNOT(wires=[56, 94])"}
+{"image": "./circuit_images_resized/data5170.png", "code": "Adjoint(T(89))\nT(55)\nAdjoint(T(88))\nT(53)\nAdjoint(T(87))"}
+{"image": "./circuit_images_resized/data7228.png", "code": "T(135)\nCNOT(wires=[32, 104])\nAdjoint(T(136))\nT(137)\nCNOT(wires=[34, 103])"}
+{"image": "./circuit_images_resized/data1494.png", "code": "T(0)\nAdjoint(T(12))\nH(20)\nCNOT(wires=[11, 19])\nCNOT(wires=[1, 18])"}
+{"image": "./circuit_images_resized/data2995.png", "code": "H(69)\nH(70)\nH(71)\nH(72)\nH(73)"}
+{"image": "./circuit_images_resized/data3036.png", "code": "T(25)\nAdjoint(T(39))\nCNOT(wires=[40, 64])\nCNOT(wires=[27, 65])\nCNOT(wires=[37, 66])"}
+{"image": "./circuit_images_resized/data718.png", "code": "CNOT(wires=[4, 2])\nH(2)\nCNOT(wires=[6, 4])\nCNOT(wires=[1, 2])\nH(4)"}
+{"image": "./circuit_images_resized/data267.png", "code": "Adjoint(T(19))\nT(17)\nAdjoint(T(23))\nT(21)\nAdjoint(T(0))"}
+{"image": "./circuit_images_resized/data25.png", "code": "Adjoint(T(2))\nH(3)\nCNOT(wires=[0, 2])\nCNOT(wires=[3, 6])\nT(6)"}
+{"image": "./circuit_images_resized/data789.png", "code": "T(7)\nCNOT(wires=[6, 8])\nT(6)\nAdjoint(T(8))\nH(7)"}
+{"image": "./circuit_images_resized/data6001.png", "code": "T(129)\nCNOT(wires=[45, 84])\nAdjoint(T(130))\nT(83)\nT(131)"}
+{"image": "./circuit_images_resized/data5789.png", "code": "CNOT(wires=[75, 128])\nCNOT(wires=[56, 129])\nCNOT(wires=[72, 130])\nCNOT(wires=[60, 131])\nT(63)"}
+{"image": "./circuit_images_resized/data10.png", "code": "T(4)\nCNOT(wires=[1, 4])\nAdjoint(T(4))\nT(1)\nCNOT(wires=[0, 4])"}
+{"image": "./circuit_images_resized/data6724.png", "code": "T(30)\nAdjoint(T(101))\nCNOT(wires=[102, 131])\nCNOT(wires=[32, 132])\nCNOT(wires=[99, 133])"}
+{"image": "./circuit_images_resized/data1540.png", "code": "CNOT(wires=[13, 20])\nAdjoint(T(18))\nAdjoint(T(19))\nAdjoint(T(20))\nCNOT(wires=[3, 18])"}
+{"image": "./circuit_images_resized/data7169.png", "code": "T(133)\nCNOT(wires=[26, 107])\nAdjoint(T(134))\nT(106)\nT(135)"}
+{"image": "./circuit_images_resized/data102.png", "code": "CNOT(wires=[7, 8])\nCNOT(wires=[14, 17])\nCNOT(wires=[15, 16])\nCNOT(wires=[20, 23])\nCNOT(wires=[21, 22])"}
+{"image": "./circuit_images_resized/data382.png", "code": "CNOT(wires=[25, 23])\nT(25)\nAdjoint(T(23))\nCNOT(wires=[15, 0])\nCNOT(wires=[25, 23])"}
+{"image": "./circuit_images_resized/data2641.png", "code": "Adjoint(T(45))\nT(27)\nT(44)\nCNOT(wires=[3, 25])\nCNOT(wires=[4, 23])"}
+{"image": "./circuit_images_resized/data2564.png", "code": "CNOT(wires=[7, 43])\nT(8)\nAdjoint(T(18))\nH(42)\nCNOT(wires=[17, 41])"}
+{"image": "./circuit_images_resized/data7049.png", "code": "CNOT(wires=[28, 133])\nCNOT(wires=[104, 134])\nCNOT(wires=[32, 135])\nT(35)\nAdjoint(T(101))"}
+{"image": "./circuit_images_resized/data7503.png", "code": "T(129)\nCNOT(wires=[14, 116])\nAdjoint(T(130))\nT(131)\nCNOT(wires=[16, 115])"}
+{"image": "./circuit_images_resized/data6314.png", "code": "Adjoint(T(130))\nT(93)\nT(131)\nCNOT(wires=[42, 90])\nAdjoint(T(132))"}
+{"image": "./circuit_images_resized/data4973.png", "code": "T(34)\nAdjoint(T(80))\nT(32)\nCNOT(wires=[1, 95])\nCNOT(wires=[2, 94])"}
+{"image": "./circuit_images_resized/data8110.png", "code": "T(134)\nCNOT(wires=[14, 120])\nAdjoint(T(135))\nT(119)\nT(136)"}
+{"image": "./circuit_images_resized/data1106.png", "code": "CNOT(wires=[6, 17])\nAdjoint(T(17))\nT(6)\nCNOT(wires=[5, 17])\nT(17)"}
+{"image": "./circuit_images_resized/data5970.png", "code": "T(83)\nT(130)\nCNOT(wires=[51, 80])\nAdjoint(T(131))\nT(132)"}
+{"image": "./circuit_images_resized/data6333.png", "code": "Adjoint(T(132))\nT(91)\nT(133)\nCNOT(wires=[46, 88])\nAdjoint(T(134))"}
+{"image": "./circuit_images_resized/data8255.png", "code": "T(116)\nT(140)\nCNOT(wires=[28, 113])\nAdjoint(T(141))\nT(142)"}
+{"image": "./circuit_images_resized/data1582.png", "code": "H(21)\nT(8)\nAdjoint(T(14))\nH(22)\nCNOT(wires=[2, 17])"}
+{"image": "./circuit_images_resized/data4799.png", "code": "T(16)\nAdjoint(T(37))\nCNOT(wires=[38, 85])\nT(17)\nAdjoint(T(35))"}
+{"image": "./circuit_images_resized/data4483.png", "code": "T(36)\nAdjoint(T(89))\nT(34)\nAdjoint(T(88))\nT(32)"}
+{"image": "./circuit_images_resized/data2860.png", "code": "T(6)\nCNOT(wires=[3, 5])\nT(3)\nAdjoint(T(5))\nH(6)"}
+{"image": "./circuit_images_resized/data2143.png", "code": "CNOT(wires=[6, 32])\nCNOT(wires=[8, 33])\nCNOT(wires=[10, 34])\nCNOT(wires=[12, 35])\nCNOT(wires=[14, 36])"}
+{"image": "./circuit_images_resized/data829.png", "code": "T(7)\nAdjoint(T(8))\nCNOT(wires=[1, 3])\nCNOT(wires=[0, 8])\nT(3)"}
+{"image": "./circuit_images_resized/data2794.png", "code": "H(35)\nT(38)\nAdjoint(T(37))\nT(20)\nT(36)"}
+{"image": "./circuit_images_resized/data7603.png", "code": "T(135)\nCNOT(wires=[26, 110])\nAdjoint(T(136))\nT(137)\nCNOT(wires=[28, 109])"}
+{"image": "./circuit_images_resized/data8138.png", "code": "Adjoint(T(119))\nCNOT(wires=[120, 135])\nCNOT(wires=[18, 136])\nCNOT(wires=[117, 137])\nCNOT(wires=[22, 138])"}
+{"image": "./circuit_images_resized/data4244.png", "code": "T(90)\nCNOT(wires=[31, 59])\nCNOT(wires=[24, 87])\nCNOT(wires=[62, 88])\nCNOT(wires=[28, 89])"}
+{"image": "./circuit_images_resized/data6601.png", "code": "Adjoint(T(128))\nT(129)\nCNOT(wires=[28, 101])\nAdjoint(T(130))\nT(100)"}
+{"image": "./circuit_images_resized/data5817.png", "code": "CNOT(wires=[58, 131])\nT(61)\nAdjoint(T(71))\nCNOT(wires=[72, 132])\nCNOT(wires=[63, 133])"}
+{"image": "./circuit_images_resized/data3826.png", "code": "Adjoint(T(78))\nT(53)\nT(79)\nCNOT(wires=[30, 50])\nAdjoint(T(80))"}
+{"image": "./circuit_images_resized/data5580.png", "code": "CNOT(wires=[4, 72])\nCNOT(wires=[5, 71])\nCNOT(wires=[6, 70])\nT(76)\nT(75)"}
+{"image": "./circuit_images_resized/data2301.png", "code": "T(30)\nAdjoint(T(37))\nT(29)\nAdjoint(T(38))\nT(28)"}
+{"image": "./circuit_images_resized/data8556.png", "code": "CNOT(wires=[121, 139])\nCNOT(wires=[21, 140])\nCNOT(wires=[118, 141])\nCNOT(wires=[25, 142])\nT(28)"}
+{"image": "./circuit_images_resized/data8097.png", "code": "Adjoint(T(148))\nT(149)\nCNOT(wires=[48, 101])\nAdjoint(T(150))\nT(100)"}
+{"image": "./circuit_images_resized/data6468.png", "code": "CNOT(wires=[92, 134])\nCNOT(wires=[44, 135])\nT(47)\nAdjoint(T(89))\nCNOT(wires=[90, 136])"}
+{"image": "./circuit_images_resized/data6303.png", "code": "Adjoint(T(81))\nCNOT(wires=[82, 139])\nCNOT(wires=[60, 140])\nCNOT(wires=[79, 141])\nT(128)"}
+{"image": "./circuit_images_resized/data6142.png", "code": "CNOT(wires=[58, 137])\nCNOT(wires=[78, 138])\nCNOT(wires=[62, 139])\nCNOT(wires=[38, 90])\nAdjoint(T(128))"}
+{"image": "./circuit_images_resized/data3419.png", "code": "T(74)\nCNOT(wires=[31, 44])\nAdjoint(T(75))\nT(6)\nAdjoint(T(58))"}
+{"image": "./circuit_images_resized/data3161.png", "code": "CNOT(wires=[47, 65])\nCNOT(wires=[20, 66])\nT(23)\nAdjoint(T(44))\nCNOT(wires=[45, 67])"}
+{"image": "./circuit_images_resized/data1277.png", "code": "CNOT(wires=[7, 16])\nAdjoint(T(20))\nT(13)\nT(19)\nCNOT(wires=[1, 11])"}
+{"image": "./circuit_images_resized/data6009.png", "code": "CNOT(wires=[54, 79])\nAdjoint(T(133))\nT(134)\nCNOT(wires=[56, 78])\nAdjoint(T(135))"}
+{"image": "./circuit_images_resized/data1534.png", "code": "Adjoint(T(19))\nT(13)\nAdjoint(T(20))\nT(12)\nCNOT(wires=[4, 18])"}
+{"image": "./circuit_images_resized/data1008.png", "code": "T(12)\nCNOT(wires=[3, 9])\nT(3)\nAdjoint(T(9))\nH(12)"}
+{"image": "./circuit_images_resized/data3908.png", "code": "T(73)\nCNOT(wires=[11, 62])\nAdjoint(T(74))\nT(61)\nT(75)"}
+{"image": "./circuit_images_resized/data2843.png", "code": "CNOT(wires=[2, 3])\nT(2)\nAdjoint(T(3))\nH(4)\nCNOT(wires=[2, 3])"}
+{"image": "./circuit_images_resized/data5490.png", "code": "T(5)\nAdjoint(T(39))\nCNOT(wires=[40, 76])\nT(6)\nAdjoint(T(37))"}
+{"image": "./circuit_images_resized/data4460.png", "code": "T(90)\nT(89)\nAdjoint(T(88))\nCNOT(wires=[45, 95])\nCNOT(wires=[43, 94])"}
+{"image": "./circuit_images_resized/data885.png", "code": "T(1)\nCNOT(wires=[0, 10])\nT(10)\nCNOT(wires=[0, 1])\nT(0)"}
+{"image": "./circuit_images_resized/data2405.png", "code": "Adjoint(T(31))\nH(43)\nT(14)\nAdjoint(T(30))\nH(44)"}
+{"image": "./circuit_images_resized/data4862.png", "code": "T(89)\nCNOT(wires=[10, 47])\nT(88)\nCNOT(wires=[11, 45])\nT(87)"}
+{"image": "./circuit_images_resized/data6862.png", "code": "CNOT(wires=[31, 133])\nT(34)\nAdjoint(T(100))\nCNOT(wires=[101, 134])\nCNOT(wires=[36, 135])"}
+{"image": "./circuit_images_resized/data4524.png", "code": "T(46)\nAdjoint(T(93))\nT(44)\nAdjoint(T(92))\nT(42)"}
+{"image": "./circuit_images_resized/data3191.png", "code": "T(42)\nT(71)\nCNOT(wires=[14, 64])\nT(17)\nAdjoint(T(48))"}
+{"image": "./circuit_images_resized/data3311.png", "code": "T(12)\nAdjoint(T(53))\nCNOT(wires=[54, 65])\nCNOT(wires=[14, 66])\nCNOT(wires=[51, 67])"}
+{"image": "./circuit_images_resized/data2953.png", "code": "Adjoint(T(17))\nT(16)\nCNOT(wires=[8, 17])\nT(17)\nCNOT(wires=[8, 16])"}
+{"image": "./circuit_images_resized/data3601.png", "code": "T(21)\nAdjoint(T(52))\nCNOT(wires=[53, 73])\nCNOT(wires=[23, 74])\nCNOT(wires=[50, 75])"}
+{"image": "./circuit_images_resized/data7843.png", "code": "T(109)\nT(141)\nCNOT(wires=[36, 106])\nAdjoint(T(142))\nT(143)"}
+{"image": "./circuit_images_resized/data5701.png", "code": "Adjoint(T(65))\nCNOT(wires=[0, 65])\nCNOT(wires=[32, 64])\nT(65)\nAdjoint(T(64))"}
+{"image": "./circuit_images_resized/data1998.png", "code": "H(26)\nAdjoint(T(25))\nT(24)\nCNOT(wires=[0, 28])\nT(1)"}
+{"image": "./circuit_images_resized/data2345.png", "code": "CNOT(wires=[30, 39])\nCNOT(wires=[29, 40])\nCNOT(wires=[28, 41])\nCNOT(wires=[27, 42])\nAdjoint(T(38))"}
+{"image": "./circuit_images_resized/data5058.png", "code": "CNOT(wires=[5, 89])\nCNOT(wires=[6, 88])\nCNOT(wires=[7, 87])\nCNOT(wires=[8, 86])\nCNOT(wires=[9, 85])"}
+{"image": "./circuit_images_resized/data8135.png", "code": "CNOT(wires=[59, 95])\nAdjoint(T(154))\nT(155)\nCNOT(wires=[61, 94])\nAdjoint(T(156))"}
+{"image": "./circuit_images_resized/data7778.png", "code": "CNOT(wires=[122, 129])\nCNOT(wires=[9, 130])\nT(12)\nAdjoint(T(119))\nCNOT(wires=[120, 131])"}
+{"image": "./circuit_images_resized/data610.png", "code": "H(17)\nCNOT(wires=[7, 10])\nT(15)\nCNOT(wires=[23, 17])\nT(10)"}
+{"image": "./circuit_images_resized/data8313.png", "code": "CNOT(wires=[54, 99])\nAdjoint(T(154))\nT(98)\nT(155)\nCNOT(wires=[61, 95])"}
+{"image": "./circuit_images_resized/data6798.png", "code": "CNOT(wires=[106, 129])\nCNOT(wires=[26, 130])\nCNOT(wires=[103, 131])\nCNOT(wires=[30, 132])\nT(33)"}
+{"image": "./circuit_images_resized/data2189.png", "code": "Adjoint(T(35))\nAdjoint(T(36))\nAdjoint(T(37))\nAdjoint(T(38))\nCNOT(wires=[3, 32])"}
+{"image": "./circuit_images_resized/data4108.png", "code": "CNOT(wires=[25, 58])\nAdjoint(T(83))\nT(84)\nCNOT(wires=[27, 57])\nAdjoint(T(85))"}
+{"image": "./circuit_images_resized/data2559.png", "code": "CNOT(wires=[24, 45])\nCNOT(wires=[6, 44])\nCNOT(wires=[20, 43])\nCNOT(wires=[8, 42])\nT(9)"}
+{"image": "./circuit_images_resized/data7483.png", "code": "T(39)\nAdjoint(T(102))\nCNOT(wires=[103, 141])\nCNOT(wires=[41, 142])\nCNOT(wires=[100, 143])"}
+{"image": "./circuit_images_resized/data4255.png", "code": "T(89)\nCNOT(wires=[30, 60])\nAdjoint(T(90))\nCNOT(wires=[25, 88])\nCNOT(wires=[62, 89])"}
+{"image": "./circuit_images_resized/data7469.png", "code": "CNOT(wires=[52, 147])\nT(55)\nAdjoint(T(93))\nCNOT(wires=[94, 148])\nCNOT(wires=[57, 149])"}
+{"image": "./circuit_images_resized/data6934.png", "code": "CNOT(wires=[35, 100])\nAdjoint(T(135))\nT(136)\nCNOT(wires=[37, 99])\nAdjoint(T(137))"}
+{"image": "./circuit_images_resized/data6900.png", "code": "Adjoint(T(107))\nCNOT(wires=[108, 129])\nCNOT(wires=[24, 130])\nCNOT(wires=[105, 131])\nCNOT(wires=[28, 132])"}
+{"image": "./circuit_images_resized/data2011.png", "code": "CNOT(wires=[2, 24])\nCNOT(wires=[10, 23])\nT(27)\nCNOT(wires=[0, 17])\nCNOT(wires=[1, 15])"}
+{"image": "./circuit_images_resized/data7388.png", "code": "CNOT(wires=[33, 138])\nT(36)\nAdjoint(T(103))\nCNOT(wires=[104, 139])\nCNOT(wires=[38, 140])"}
+{"image": "./circuit_images_resized/data14.png", "code": "CNOT(wires=[8, 9])\nAdjoint(T(3))\nAdjoint(T(6))\nAdjoint(T(9))\nCNOT(wires=[1, 3])"}
+{"image": "./circuit_images_resized/data2897.png", "code": "CNOT(wires=[0, 5])\nT(5)\nCNOT(wires=[0, 1])\nT(0)\nAdjoint(T(1))"}
+{"image": "./circuit_images_resized/data1712.png", "code": "CNOT(wires=[3, 21])\nCNOT(wires=[0, 16])\nAdjoint(T(24))\nT(23)\nAdjoint(T(22))"}
+{"image": "./circuit_images_resized/data7227.png", "code": "Adjoint(T(132))\nT(133)\nCNOT(wires=[25, 108])\nAdjoint(T(134))\nT(107)"}
+{"image": "./circuit_images_resized/data6864.png", "code": "CNOT(wires=[45, 139])\nCNOT(wires=[93, 140])\nCNOT(wires=[49, 141])\nT(52)\nAdjoint(T(90))"}
+{"image": "./circuit_images_resized/data5854.png", "code": "CNOT(wires=[58, 132])\nT(61)\nAdjoint(T(72))\nCNOT(wires=[73, 133])\nCNOT(wires=[63, 134])"}
+{"image": "./circuit_images_resized/data6013.png", "code": "CNOT(wires=[58, 135])\nCNOT(wires=[76, 136])\nCNOT(wires=[62, 137])\nAdjoint(T(128))\nT(86)"}
+{"image": "./circuit_images_resized/data706.png", "code": "CNOT(wires=[3, 4])\nCNOT(wires=[8, 9])\nCNOT(wires=[12, 14])\nCNOT(wires=[3, 2])\nX(0)"}
+{"image": "./circuit_images_resized/data3105.png", "code": "CNOT(wires=[21, 65])\nT(24)\nAdjoint(T(42))\nCNOT(wires=[43, 66])\nCNOT(wires=[26, 67])"}
+{"image": "./circuit_images_resized/data7661.png", "code": "CNOT(wires=[114, 134])\nCNOT(wires=[22, 135])\nT(25)\nAdjoint(T(111))\nCNOT(wires=[112, 136])"}
+{"image": "./circuit_images_resized/data6528.png", "code": "Adjoint(T(141))\nT(142)\nCNOT(wires=[59, 83])\nAdjoint(T(143))\nT(82)"}
+{"image": "./circuit_images_resized/data3392.png", "code": "CNOT(wires=[7, 57])\nAdjoint(T(64))\nT(65)\nCNOT(wires=[9, 56])\nAdjoint(T(66))"}
+{"image": "./circuit_images_resized/data4570.png", "code": "CNOT(wires=[42, 91])\nCNOT(wires=[40, 90])\nCNOT(wires=[38, 89])\nCNOT(wires=[36, 88])\nCNOT(wires=[34, 87])"}
+{"image": "./circuit_images_resized/data6337.png", "code": "CNOT(wires=[36, 130])\nT(39)\nAdjoint(T(92))\nCNOT(wires=[93, 131])\nCNOT(wires=[41, 132])"}
+{"image": "./circuit_images_resized/data8489.png", "code": "Adjoint(T(119))\nCNOT(wires=[120, 139])\nCNOT(wires=[22, 140])\nCNOT(wires=[117, 141])\nCNOT(wires=[26, 142])"}
+{"image": "./circuit_images_resized/data6707.png", "code": "CNOT(wires=[35, 98])\nAdjoint(T(133))\nT(134)\nCNOT(wires=[37, 97])\nAdjoint(T(135))"}
+{"image": "./circuit_images_resized/data8241.png", "code": "CNOT(wires=[46, 103])\nAdjoint(T(150))\nT(102)\nT(151)\nCNOT(wires=[53, 99])"}
+{"image": "./circuit_images_resized/data8465.png", "code": "T(144)\nCNOT(wires=[34, 111])\nAdjoint(T(145))\nT(146)\nCNOT(wires=[36, 110])"}
+{"image": "./circuit_images_resized/data3011.png", "code": "CNOT(wires=[35, 65])\nT(64)\nCNOT(wires=[31, 34])\nAdjoint(T(65))\nCNOT(wires=[36, 64])"}
+{"image": "./circuit_images_resized/data5502.png", "code": "T(46)\nAdjoint(T(78))\nT(44)\nAdjoint(T(77))\nT(42)"}
+{"image": "./circuit_images_resized/data5396.png", "code": "T(75)\nT(74)\nCNOT(wires=[52, 84])\nCNOT(wires=[50, 83])\nCNOT(wires=[48, 82])"}
+{"image": "./circuit_images_resized/data1006.png", "code": "CNOT(wires=[4, 8])\nH(12)\nCNOT(wires=[9, 12])\nAdjoint(T(12))\nCNOT(wires=[3, 12])"}
+{"image": "./circuit_images_resized/data2601.png", "code": "CNOT(wires=[3, 27])\nCNOT(wires=[4, 25])\nH(45)\nAdjoint(T(44))\nT(43)"}
+{"image": "./circuit_images_resized/data675.png", "code": "Adjoint(T(16))\nT(14)\nCNOT(wires=[13, 16])\nT(16)\nCNOT(wires=[13, 14])"}
+{"image": "./circuit_images_resized/data8464.png", "code": "Adjoint(T(141))\nT(142)\nCNOT(wires=[27, 115])\nAdjoint(T(143))\nT(114)"}
+{"image": "./circuit_images_resized/data2315.png", "code": "CNOT(wires=[9, 38])\nCNOT(wires=[11, 39])\nCNOT(wires=[13, 40])\nCNOT(wires=[15, 41])\nT(36)"}
+{"image": "./circuit_images_resized/data5536.png", "code": "Adjoint(T(35))\nCNOT(wires=[36, 73])\nT(7)\nAdjoint(T(33))\nCNOT(wires=[34, 72])"}
+{"image": "./circuit_images_resized/data6389.png", "code": "CNOT(wires=[83, 140])\nCNOT(wires=[60, 141])\nCNOT(wires=[80, 142])\nCNOT(wires=[31, 97])\nAdjoint(T(128))"}
+{"image": "./circuit_images_resized/data2044.png", "code": "T(22)\nCNOT(wires=[1, 11])\nCNOT(wires=[0, 23])\nT(1)\nAdjoint(T(11))"}
+{"image": "./circuit_images_resized/data1049.png", "code": "Adjoint(T(12))\nT(7)\nT(11)\nCNOT(wires=[1, 5])\nCNOT(wires=[0, 12])"}
+{"image": "./circuit_images_resized/data1293.png", "code": "T(16)\nCNOT(wires=[2, 7])\nCNOT(wires=[11, 18])\nCNOT(wires=[1, 17])\nT(2)"}
+{"image": "./circuit_images_resized/data8168.png", "code": "CNOT(wires=[36, 108])\nAdjoint(T(144))\nT(145)\nCNOT(wires=[38, 107])\nAdjoint(T(146))"}
+{"image": "./circuit_images_resized/data3744.png", "code": "CNOT(wires=[58, 72])\nCNOT(wires=[16, 73])\nT(19)\nAdjoint(T(55))\nCNOT(wires=[56, 74])"}
+{"image": "./circuit_images_resized/data8468.png", "code": "CNOT(wires=[52, 101])\nAdjoint(T(153))\nT(154)\nCNOT(wires=[54, 100])\nAdjoint(T(155))"}
+{"image": "./circuit_images_resized/data5766.png", "code": "Adjoint(T(72))\nCNOT(wires=[73, 128])\nCNOT(wires=[58, 129])\nCNOT(wires=[70, 130])\nCNOT(wires=[62, 131])"}
+{"image": "./circuit_images_resized/data5386.png", "code": "Adjoint(T(37))\nCNOT(wires=[38, 77])\nT(9)\nAdjoint(T(35))\nCNOT(wires=[36, 76])"}
+{"image": "./circuit_images_resized/data1826.png", "code": "CNOT(wires=[1, 19])\nT(21)\nCNOT(wires=[3, 18])\nT(22)\nCNOT(wires=[5, 17])"}
+{"image": "./circuit_images_resized/data3849.png", "code": "T(50)\nCNOT(wires=[8, 71])\nT(11)\nAdjoint(T(61))\nCNOT(wires=[62, 72])"}
+{"image": "./circuit_images_resized/data7681.png", "code": "CNOT(wires=[42, 144])\nT(45)\nAdjoint(T(100))\nCNOT(wires=[101, 145])\nCNOT(wires=[47, 146])"}
+{"image": "./circuit_images_resized/data8297.png", "code": "CNOT(wires=[4, 131])\nT(7)\nAdjoint(T(125))\nCNOT(wires=[126, 132])\nCNOT(wires=[9, 133])"}
+{"image": "./circuit_images_resized/data3953.png", "code": "CNOT(wires=[52, 83])\nT(74)\nCNOT(wires=[14, 61])\nAdjoint(T(75))\nT(76)"}
+{"image": "./circuit_images_resized/data1727.png", "code": "CNOT(wires=[1, 12])\nCNOT(wires=[2, 10])\nH(21)\nCNOT(wires=[0, 23])\nT(1)"}
+{"image": "./circuit_images_resized/data5570.png", "code": "T(76)\nCNOT(wires=[1, 43])\nT(75)\nCNOT(wires=[2, 41])\nT(74)"}
+{"image": "./circuit_images_resized/data2159.png", "code": "Adjoint(T(37))\nT(22)\nCNOT(wires=[5, 32])\nCNOT(wires=[7, 33])\nCNOT(wires=[9, 34])"}
+{"image": "./circuit_images_resized/data3217.png", "code": "Adjoint(T(69))\nT(70)\nCNOT(wires=[27, 43])\nAdjoint(T(71))\nT(42)"}
+{"image": "./circuit_images_resized/data354.png", "code": "H(3)\nCNOT(wires=[18, 23])\nCNOT(wires=[9, 10])\nCNOT(wires=[2, 6])\nCNOT(wires=[14, 11])"}
+{"image": "./circuit_images_resized/data4966.png", "code": "CNOT(wires=[42, 85])\nCNOT(wires=[40, 84])\nCNOT(wires=[38, 83])\nCNOT(wires=[36, 82])\nCNOT(wires=[34, 81])"}
+{"image": "./circuit_images_resized/data5658.png", "code": "Adjoint(T(69))\nT(35)\nAdjoint(T(68))\nT(33)\nCNOT(wires=[0, 71])"}
+{"image": "./circuit_images_resized/data6402.png", "code": "Adjoint(T(135))\nT(89)\nT(136)\nCNOT(wires=[51, 86])\nAdjoint(T(137))"}
+{"image": "./circuit_images_resized/data5357.png", "code": "CNOT(wires=[37, 77])\nT(10)\nAdjoint(T(34))\nCNOT(wires=[35, 76])\nT(11)"}
+{"image": "./circuit_images_resized/data7124.png", "code": "T(63)\nAdjoint(T(86))\nCNOT(wires=[87, 149])\nT(128)\nCNOT(wires=[18, 111])"}
+{"image": "./circuit_images_resized/data390.png", "code": "T(15)\nT(22)\nCNOT(wires=[11, 15])\nCNOT(wires=[25, 22])\nAdjoint(T(15))"}
+{"image": "./circuit_images_resized/data2806.png", "code": "T(21)\nT(36)\nCNOT(wires=[1, 19])\nCNOT(wires=[2, 17])\nH(35)"}
+{"image": "./circuit_images_resized/data1636.png", "code": "CNOT(wires=[5, 26])\nCNOT(wires=[10, 25])\nT(26)\nAdjoint(T(25))\nT(10)"}
+{"image": "./circuit_images_resized/data4098.png", "code": "CNOT(wires=[21, 60])\nAdjoint(T(81))\nT(82)\nCNOT(wires=[23, 59])\nAdjoint(T(83))"}
+{"image": "./circuit_images_resized/data7626.png", "code": "T(12)\nAdjoint(T(118))\nCNOT(wires=[119, 130])\nCNOT(wires=[14, 131])\nCNOT(wires=[116, 132])"}
+{"image": "./circuit_images_resized/data5307.png", "code": "CNOT(wires=[45, 82])\nCNOT(wires=[43, 81])\nCNOT(wires=[41, 80])\nCNOT(wires=[39, 79])\nCNOT(wires=[37, 78])"}
+{"image": "./circuit_images_resized/data4253.png", "code": "Adjoint(T(89))\nT(90)\nCNOT(wires=[30, 60])\nCNOT(wires=[63, 88])\nCNOT(wires=[27, 89])"}
+{"image": "./circuit_images_resized/data7662.png", "code": "CNOT(wires=[27, 137])\nCNOT(wires=[109, 138])\nCNOT(wires=[31, 139])\nT(34)\nAdjoint(T(106))"}
+{"image": "./circuit_images_resized/data6799.png", "code": "Adjoint(T(100))\nCNOT(wires=[101, 133])\nCNOT(wires=[35, 134])\nCNOT(wires=[98, 135])\nCNOT(wires=[39, 136])"}
+{"image": "./circuit_images_resized/data4261.png", "code": "CNOT(wires=[27, 62])\nAdjoint(T(89))\nT(90)\nCNOT(wires=[29, 61])\nAdjoint(T(91))"}
+{"image": "./circuit_images_resized/data5506.png", "code": "CNOT(wires=[5, 75])\nCNOT(wires=[6, 74])\nCNOT(wires=[7, 73])\nCNOT(wires=[8, 72])\nT(80)"}
+{"image": "./circuit_images_resized/data3005.png", "code": "Adjoint(T(34))\nCNOT(wires=[35, 64])\nCNOT(wires=[30, 34])\nAdjoint(T(64))\nCNOT(wires=[29, 64])"}
+{"image": "./circuit_images_resized/data1864.png", "code": "CNOT(wires=[4, 19])\nCNOT(wires=[6, 18])\nH(24)\nCNOT(wires=[8, 17])\nH(25)"}
+{"image": "./circuit_images_resized/data5465.png", "code": "Adjoint(T(42))\nCNOT(wires=[43, 78])\nT(5)\nAdjoint(T(40))\nCNOT(wires=[41, 77])"}
+{"image": "./circuit_images_resized/data4128.png", "code": "CNOT(wires=[19, 81])\nCNOT(wires=[61, 82])\nCNOT(wires=[23, 83])\nT(26)\nAdjoint(T(58))"}
+{"image": "./circuit_images_resized/data5384.png", "code": "T(5)\nAdjoint(T(43))\nCNOT(wires=[44, 80])\nT(6)\nAdjoint(T(41))"}
+{"image": "./circuit_images_resized/data2308.png", "code": "H(37)\nT(10)\nAdjoint(T(28))\nH(38)\nT(12)"}
+{"image": "./circuit_images_resized/data4552.png", "code": "CNOT(wires=[20, 89])\nCNOT(wires=[21, 88])\nCNOT(wires=[22, 87])\nT(95)\nCNOT(wires=[14, 49])"}
+{"image": "./circuit_images_resized/data4556.png", "code": "CNOT(wires=[22, 33])\nT(14)\nAdjoint(T(49))\nCNOT(wires=[50, 95])\nT(15)"}
+{"image": "./circuit_images_resized/data6359.png", "code": "CNOT(wires=[86, 137])\nCNOT(wires=[54, 138])\nCNOT(wires=[83, 139])\nCNOT(wires=[58, 140])\nT(61)"}
+{"image": "./circuit_images_resized/data4414.png", "code": "CNOT(wires=[23, 93])\nCNOT(wires=[24, 92])\nCNOT(wires=[25, 91])\nCNOT(wires=[26, 90])\nT(95)"}
+{"image": "./circuit_images_resized/data3895.png", "code": "T(75)\nCNOT(wires=[16, 59])\nAdjoint(T(76))\nT(58)\nT(77)"}
+{"image": "./circuit_images_resized/data3525.png", "code": "Adjoint(T(72))\nT(73)\nCNOT(wires=[23, 50])\nAdjoint(T(74))\nT(49)"}
+{"image": "./circuit_images_resized/data7947.png", "code": "CNOT(wires=[21, 115])\nAdjoint(T(136))\nT(137)\nCNOT(wires=[23, 114])\nAdjoint(T(138))"}
+{"image": "./circuit_images_resized/data3424.png", "code": "Adjoint(T(66))\nT(56)\nT(67)\nCNOT(wires=[15, 53])\nAdjoint(T(68))"}
+{"image": "./circuit_images_resized/data8060.png", "code": "T(147)\nCNOT(wires=[44, 103])\nAdjoint(T(148))\nT(102)\nT(149)"}
+{"image": "./circuit_images_resized/data97.png", "code": "H(4)\nT(1)\nAdjoint(T(2))\nH(5)\nT(6)"}
+{"image": "./circuit_images_resized/data2245.png", "code": "T(1)\nAdjoint(T(31))\nH(32)\nT(3)\nAdjoint(T(30))"}
+{"image": "./circuit_images_resized/data8564.png", "code": "CNOT(wires=[21, 119])\nAdjoint(T(141))\nT(118)\nT(142)\nCNOT(wires=[28, 115])"}
+{"image": "./circuit_images_resized/data5355.png", "code": "Adjoint(T(42))\nCNOT(wires=[43, 80])\nT(7)\nAdjoint(T(40))\nCNOT(wires=[41, 79])"}
+{"image": "./circuit_images_resized/data126.png", "code": "Adjoint(T(22))\nH(24)\nT(21)\nAdjoint(T(23))\nH(25)"}
+{"image": "./circuit_images_resized/data1913.png", "code": "CNOT(wires=[7, 27])\nCNOT(wires=[6, 13])\nH(29)\nAdjoint(T(28))\nT(27)"}
+{"image": "./circuit_images_resized/data7989.png", "code": "Adjoint(T(152))\nT(96)\nT(153)\nCNOT(wires=[61, 93])\nAdjoint(T(154))"}
+{"image": "./circuit_images_resized/data1036.png", "code": "CNOT(wires=[9, 14])\nCNOT(wires=[1, 13])\nT(2)\nAdjoint(T(5))\nH(12)"}
+{"image": "./circuit_images_resized/data6317.png", "code": "T(83)\nT(139)\nCNOT(wires=[60, 80])\nAdjoint(T(140))\nT(141)"}
+{"image": "./circuit_images_resized/data378.png", "code": "Adjoint(T(15))\nT(7)\nCNOT(wires=[0, 15])\nT(15)\nCNOT(wires=[0, 7])"}
+{"image": "./circuit_images_resized/data890.png", "code": "T(12)\nCNOT(wires=[11, 12])\nAdjoint(T(12))\nT(11)\nCNOT(wires=[3, 12])"}
+{"image": "./circuit_images_resized/data5072.png", "code": "Adjoint(T(44))\nCNOT(wires=[45, 85])\nT(10)\nAdjoint(T(42))\nCNOT(wires=[43, 84])"}
+{"image": "./circuit_images_resized/data3497.png", "code": "Adjoint(T(65))\nT(66)\nCNOT(wires=[8, 58])\nAdjoint(T(67))\nT(57)"}
+{"image": "./circuit_images_resized/data1784.png", "code": "CNOT(wires=[7, 14])\nH(21)\nCNOT(wires=[9, 13])\nH(22)\nCNOT(wires=[16, 20])"}
+{"image": "./circuit_images_resized/data2392.png", "code": "CNOT(wires=[31, 42])\nCNOT(wires=[30, 43])\nCNOT(wires=[29, 44])\nAdjoint(T(42))\nAdjoint(T(43))"}
+{"image": "./circuit_images_resized/data2571.png", "code": "Adjoint(T(42))\nT(41)\nCNOT(wires=[3, 47])\nCNOT(wires=[26, 46])\nCNOT(wires=[5, 45])"}
+{"image": "./circuit_images_resized/data636.png", "code": "Adjoint(T(14))\nT(20)\nAdjoint(T(21))\nH(23)\nT(8)"}
+{"image": "./circuit_images_resized/data6587.png", "code": "CNOT(wires=[91, 137])\nCNOT(wires=[48, 138])\nT(51)\nAdjoint(T(88))\nCNOT(wires=[89, 139])"}
+{"image": "./circuit_images_resized/data2131.png", "code": "T(7)\nAdjoint(T(25))\nH(32)\nT(9)\nAdjoint(T(24))"}
+{"image": "./circuit_images_resized/data3753.png", "code": "CNOT(wires=[23, 76])\nCNOT(wires=[52, 77])\nCNOT(wires=[27, 78])\nT(30)\nAdjoint(T(49))"}
+{"image": "./circuit_images_resized/data7616.png", "code": "CNOT(wires=[57, 150])\nCNOT(wires=[92, 151])\nCNOT(wires=[61, 152])\nCNOT(wires=[90, 153])\nT(128)"}
+{"image": "./circuit_images_resized/data2859.png", "code": "T(6)\nCNOT(wires=[5, 6])\nAdjoint(T(6))\nT(5)\nCNOT(wires=[3, 6])"}
+{"image": "./circuit_images_resized/data6256.png", "code": "CNOT(wires=[45, 133])\nT(48)\nAdjoint(T(86))\nCNOT(wires=[87, 134])\nCNOT(wires=[50, 135])"}
+{"image": "./circuit_images_resized/data4010.png", "code": "T(55)\nT(83)\nAdjoint(T(84))\nCNOT(wires=[13, 76])\nT(16)"}
+{"image": "./circuit_images_resized/data3504.png", "code": "Adjoint(T(48))\nCNOT(wires=[49, 74])\nCNOT(wires=[28, 75])\nCNOT(wires=[46, 76])\nAdjoint(T(64))"}
+{"image": "./circuit_images_resized/data4206.png", "code": "CNOT(wires=[21, 63])\nT(85)\nCNOT(wires=[23, 62])\nAdjoint(T(86))\nT(61)"}
+{"image": "./circuit_images_resized/data8035.png", "code": "CNOT(wires=[93, 155])\nT(128)\nCNOT(wires=[4, 125])\nAdjoint(T(129))\nT(130)"}
+{"image": "./circuit_images_resized/data5409.png", "code": "CNOT(wires=[9, 34])\nT(74)\nCNOT(wires=[10, 32])\nT(0)\nAdjoint(T(52))"}
+{"image": "./circuit_images_resized/data7839.png", "code": "T(129)\nCNOT(wires=[9, 121])\nAdjoint(T(130))\nT(131)\nCNOT(wires=[11, 120])"}
+{"image": "./circuit_images_resized/data2950.png", "code": "Adjoint(T(18))\nT(17)\nCNOT(wires=[9, 18])\nT(18)\nCNOT(wires=[9, 17])"}
+{"image": "./circuit_images_resized/data7185.png", "code": "Adjoint(T(137))\nT(138)\nCNOT(wires=[37, 101])\nAdjoint(T(139))\nT(100)"}
+{"image": "./circuit_images_resized/data5454.png", "code": "T(44)\nAdjoint(T(78))\nT(42)\nAdjoint(T(77))\nT(40)"}
+{"image": "./circuit_images_resized/data284.png", "code": "CNOT(wires=[2, 6])\nT(11)\nCNOT(wires=[10, 14])\nT(18)\nCNOT(wires=[17, 21])"}
+{"image": "./circuit_images_resized/data1430.png", "code": "CNOT(wires=[9, 21])\nCNOT(wires=[8, 20])\nT(23)\nCNOT(wires=[3, 12])\nCNOT(wires=[4, 10])"}
+{"image": "./circuit_images_resized/data4729.png", "code": "T(13)\nAdjoint(T(45))\nCNOT(wires=[46, 90])\nT(14)\nAdjoint(T(43))"}
+{"image": "./circuit_images_resized/data1433.png", "code": "Adjoint(T(22))\nT(21)\nCNOT(wires=[13, 23])\nCNOT(wires=[3, 22])\nCNOT(wires=[9, 21])"}
+{"image": "./circuit_images_resized/data5840.png", "code": "CNOT(wires=[52, 129])\nT(55)\nAdjoint(T(75))\nCNOT(wires=[76, 130])\nCNOT(wires=[57, 131])"}
+{"image": "./circuit_images_resized/data4143.png", "code": "Adjoint(T(83))\nT(84)\nCNOT(wires=[25, 59])\nAdjoint(T(85))\nT(58)"}
+{"image": "./circuit_images_resized/data5836.png", "code": "T(53)\nAdjoint(T(76))\nCNOT(wires=[77, 129])\nCNOT(wires=[55, 130])\nCNOT(wires=[74, 131])"}
+{"image": "./circuit_images_resized/data198.png", "code": "H(15)\nT(2)\nAdjoint(T(4))\nH(5)\nCNOT(wires=[7, 11])"}
+{"image": "./circuit_images_resized/data7718.png", "code": "T(121)\nT(130)\nCNOT(wires=[13, 118])\nAdjoint(T(131))\nT(132)"}
+{"image": "./circuit_images_resized/data827.png", "code": "CNOT(wires=[1, 8])\nCNOT(wires=[6, 4])\nCNOT(wires=[1, 3])\nCNOT(wires=[5, 8])\nT(3)"}
+{"image": "./circuit_images_resized/data3528.png", "code": "T(14)\nAdjoint(T(55))\nCNOT(wires=[56, 69])\nCNOT(wires=[16, 70])\nCNOT(wires=[53, 71])"}
+{"image": "./circuit_images_resized/data5291.png", "code": "Adjoint(T(46))\nCNOT(wires=[47, 83])\nT(6)\nAdjoint(T(44))\nCNOT(wires=[45, 82])"}
+{"image": "./circuit_images_resized/data4144.png", "code": "T(86)\nAdjoint(T(87))\nCNOT(wires=[18, 81])\nCNOT(wires=[62, 82])\nCNOT(wires=[22, 83])"}
+{"image": "./circuit_images_resized/data5755.png", "code": "T(130)\nAdjoint(T(131))\nT(57)\nAdjoint(T(71))\nCNOT(wires=[72, 128])"}
+{"image": "./circuit_images_resized/data5728.png", "code": "T(66)\nT(61)\nAdjoint(T(67))\nCNOT(wires=[68, 128])\nCNOT(wires=[63, 129])"}
+{"image": "./circuit_images_resized/data5367.png", "code": "T(78)\nT(77)\nT(76)\nT(75)\nAdjoint(T(74))"}
+{"image": "./circuit_images_resized/data7063.png", "code": "CNOT(wires=[106, 133])\nCNOT(wires=[30, 134])\nCNOT(wires=[103, 135])\nCNOT(wires=[34, 136])\nT(37)"}
+{"image": "./circuit_images_resized/data3502.png", "code": "CNOT(wires=[10, 67])\nCNOT(wires=[56, 68])\nCNOT(wires=[14, 69])\nT(17)\nAdjoint(T(53))"}
+{"image": "./circuit_images_resized/data8326.png", "code": "T(140)\nCNOT(wires=[27, 114])\nAdjoint(T(141))\nT(142)\nCNOT(wires=[29, 113])"}
+{"image": "./circuit_images_resized/data1463.png", "code": "Adjoint(T(20))\nT(19)\nCNOT(wires=[0, 23])\nT(1)\nAdjoint(T(13))"}
+{"image": "./circuit_images_resized/data4017.png", "code": "CNOT(wires=[61, 78])\nCNOT(wires=[20, 79])\nCNOT(wires=[58, 80])\nCNOT(wires=[24, 81])\nT(27)"}
+{"image": "./circuit_images_resized/data1026.png", "code": "H(14)\nAdjoint(T(13))\nAdjoint(T(12))\nCNOT(wires=[8, 14])\nCNOT(wires=[2, 13])"}
+{"image": "./circuit_images_resized/data5601.png", "code": "CNOT(wires=[33, 70])\nAdjoint(T(75))\nT(43)\nAdjoint(T(74))\nT(41)"}
+{"image": "./circuit_images_resized/data4950.png", "code": "Adjoint(T(37))\nCNOT(wires=[38, 83])\nT(15)\nAdjoint(T(35))\nCNOT(wires=[36, 82])"}
+{"image": "./circuit_images_resized/data3515.png", "code": "Adjoint(T(69))\nT(55)\nT(70)\nCNOT(wires=[19, 52])\nAdjoint(T(71))"}
+{"image": "./circuit_images_resized/data1300.png", "code": "T(17)\nAdjoint(T(16))\nT(8)\nCNOT(wires=[10, 17])\nCNOT(wires=[1, 16])"}
+{"image": "./circuit_images_resized/data1509.png", "code": "T(16)\nCNOT(wires=[8, 16])\nAdjoint(T(16))\nT(8)\nCNOT(wires=[0, 16])"}
+{"image": "./circuit_images_resized/data1672.png", "code": "CNOT(wires=[10, 23])\nCNOT(wires=[2, 15])\nH(26)\nAdjoint(T(25))\nT(24)"}
+{"image": "./circuit_images_resized/data4135.png", "code": "Adjoint(T(83))\nT(60)\nT(84)\nCNOT(wires=[28, 57])\nAdjoint(T(85))"}
+{"image": "./circuit_images_resized/data5311.png", "code": "T(43)\nAdjoint(T(80))\nT(41)\nAdjoint(T(79))\nT(39)"}
+{"image": "./circuit_images_resized/data1371.png", "code": "Adjoint(T(14))\nH(18)\nT(6)\nAdjoint(T(13))\nH(19)"}
+{"image": "./circuit_images_resized/data1893.png", "code": "H(28)\nCNOT(wires=[9, 19])\nCNOT(wires=[28, 21])\nCNOT(wires=[25, 28])\nCNOT(wires=[21, 24])"}
+{"image": "./circuit_images_resized/data6422.png", "code": "CNOT(wires=[48, 88])\nAdjoint(T(137))\nT(87)\nT(138)\nCNOT(wires=[55, 84])"}
+{"image": "./circuit_images_resized/data3172.png", "code": "T(27)\nAdjoint(T(42))\nCNOT(wires=[43, 69])\nCNOT(wires=[29, 70])\nCNOT(wires=[40, 71])"}
+{"image": "./circuit_images_resized/data2637.png", "code": "CNOT(wires=[4, 23])\nCNOT(wires=[5, 21])\nH(42)\nAdjoint(T(41))\nT(40)"}
+{"image": "./circuit_images_resized/data279.png", "code": "CNOT(wires=[21, 18])\nCNOT(wires=[25, 22])\nAdjoint(T(3))\nAdjoint(T(11))\nAdjoint(T(18))"}
+{"image": "./circuit_images_resized/data5568.png", "code": "T(33)\nCNOT(wires=[0, 77])\nCNOT(wires=[1, 76])\nCNOT(wires=[2, 75])\nCNOT(wires=[3, 74])"}
+{"image": "./circuit_images_resized/data7884.png", "code": "CNOT(wires=[121, 131])\nCNOT(wires=[12, 132])\nT(15)\nAdjoint(T(118))\nCNOT(wires=[119, 133])"}
+{"image": "./circuit_images_resized/data340.png", "code": "CNOT(wires=[10, 14])\nT(17)\nAdjoint(T(21))\nT(2)\nAdjoint(T(6))"}
+{"image": "./circuit_images_resized/data1221.png", "code": "Adjoint(T(18))\nT(12)\nCNOT(wires=[4, 17])\nCNOT(wires=[6, 18])\nT(17)"}
+{"image": "./circuit_images_resized/data7802.png", "code": "CNOT(wires=[56, 151])\nT(59)\nAdjoint(T(93))\nCNOT(wires=[94, 152])\nCNOT(wires=[61, 153])"}
+{"image": "./circuit_images_resized/data6603.png", "code": "Adjoint(T(134))\nT(95)\nT(135)\nCNOT(wires=[44, 92])\nAdjoint(T(136))"}
+{"image": "./circuit_images_resized/data3663.png", "code": "Adjoint(T(50))\nCNOT(wires=[51, 76])\nCNOT(wires=[28, 77])\nCNOT(wires=[48, 78])\nAdjoint(T(66))"}
+{"image": "./circuit_images_resized/data3173.png", "code": "T(64)\nCNOT(wires=[18, 47])\nAdjoint(T(65))\nT(66)\nCNOT(wires=[20, 46])"}
+{"image": "./circuit_images_resized/data5205.png", "code": "CNOT(wires=[34, 78])\nCNOT(wires=[32, 77])\nAdjoint(T(90))\nT(58)\nAdjoint(T(89))"}
+{"image": "./circuit_images_resized/data5650.png", "code": "T(1)\nAdjoint(T(38))\nCNOT(wires=[39, 71])\nT(2)\nAdjoint(T(36))"}
+{"image": "./circuit_images_resized/data7645.png", "code": "CNOT(wires=[29, 138])\nT(32)\nAdjoint(T(107))\nCNOT(wires=[108, 139])\nCNOT(wires=[34, 140])"}
+{"image": "./circuit_images_resized/data3955.png", "code": "Adjoint(T(79))\nT(80)\nCNOT(wires=[25, 55])\nAdjoint(T(81))\nT(54)"}
+{"image": "./circuit_images_resized/data6516.png", "code": "CNOT(wires=[48, 89])\nAdjoint(T(138))\nT(88)\nT(139)\nCNOT(wires=[55, 85])"}
+{"image": "./circuit_images_resized/data6304.png", "code": "CNOT(wires=[33, 95])\nAdjoint(T(129))\nT(94)\nT(130)\nCNOT(wires=[40, 91])"}
+{"image": "./circuit_images_resized/data1443.png", "code": "Adjoint(T(20))\nT(8)\nCNOT(wires=[14, 23])\nCNOT(wires=[2, 22])\nCNOT(wires=[10, 21])"}
+{"image": "./circuit_images_resized/data8162.png", "code": "CNOT(wires=[60, 155])\nT(63)\nAdjoint(T(93))\nCNOT(wires=[94, 156])\nT(129)"}
+{"image": "./circuit_images_resized/data4863.png", "code": "CNOT(wires=[12, 43])\nT(86)\nCNOT(wires=[13, 41])\nT(85)\nCNOT(wires=[14, 39])"}
+{"image": "./circuit_images_resized/data5281.png", "code": "CNOT(wires=[4, 84])\nCNOT(wires=[5, 83])\nCNOT(wires=[6, 82])\nCNOT(wires=[7, 81])\nCNOT(wires=[8, 80])"}
+{"image": "./circuit_images_resized/data5670.png", "code": "CNOT(wires=[0, 38])\nT(69)\nCNOT(wires=[1, 36])\nT(68)\nCNOT(wires=[2, 34])"}
+{"image": "./circuit_images_resized/data867.png", "code": "H(6)\nCNOT(wires=[2, 5])\nCNOT(wires=[6, 7])\nAdjoint(T(7))\nCNOT(wires=[3, 7])"}
+{"image": "./circuit_images_resized/data3239.png", "code": "Adjoint(T(65))\nT(66)\nCNOT(wires=[17, 49])\nAdjoint(T(67))\nT(48)"}
+{"image": "./circuit_images_resized/data883.png", "code": "H(15)\nH(16)\nH(17)\nH(18)\nCNOT(wires=[1, 10])"}
+{"image": "./circuit_images_resized/data2407.png", "code": "Adjoint(T(44))\nAdjoint(T(45))\nCNOT(wires=[13, 44])\nCNOT(wires=[15, 45])\nT(44)"}
+{"image": "./circuit_images_resized/data6190.png", "code": "CNOT(wires=[61, 139])\nCNOT(wires=[77, 140])\nAdjoint(T(128))\nT(92)\nT(129)"}
+{"image": "./circuit_images_resized/data5376.png", "code": "CNOT(wires=[7, 78])\nCNOT(wires=[8, 77])\nCNOT(wires=[9, 76])\nCNOT(wires=[10, 75])\nT(85)"}
+{"image": "./circuit_images_resized/data3880.png", "code": "T(28)\nAdjoint(T(52))\nCNOT(wires=[53, 80])\nCNOT(wires=[30, 81])\nCNOT(wires=[10, 62])"}
+{"image": "./circuit_images_resized/data8167.png", "code": "T(141)\nCNOT(wires=[29, 112])\nAdjoint(T(142))\nT(111)\nT(143)"}
+{"image": "./circuit_images_resized/data4499.png", "code": "T(93)\nT(92)\nT(91)\nT(90)\nT(89)"}
+{"image": "./circuit_images_resized/data6945.png", "code": "Adjoint(T(128))\nT(129)\nCNOT(wires=[21, 108])\nAdjoint(T(130))\nT(107)"}
+{"image": "./circuit_images_resized/data2741.png", "code": "CNOT(wires=[2, 40])\nT(3)\nAdjoint(T(20))\nH(39)\nCNOT(wires=[19, 38])"}
+{"image": "./circuit_images_resized/data8210.png", "code": "Adjoint(T(120))\nCNOT(wires=[121, 135])\nCNOT(wires=[17, 136])\nCNOT(wires=[118, 137])\nCNOT(wires=[21, 138])"}
+{"image": "./circuit_images_resized/data4475.png", "code": "Adjoint(T(91))\nCNOT(wires=[23, 35])\nAdjoint(T(90))\nCNOT(wires=[24, 33])\nAdjoint(T(89))"}
+{"image": "./circuit_images_resized/data1162.png", "code": "Adjoint(T(12))\nCNOT(wires=[0, 13])\nT(13)\nCNOT(wires=[7, 13])\nAdjoint(T(13))"}
+{"image": "./circuit_images_resized/data1686.png", "code": "T(24)\nAdjoint(T(23))\nT(11)\nT(22)\nCNOT(wires=[4, 9])"}
+{"image": "./circuit_images_resized/data4172.png", "code": "CNOT(wires=[28, 58])\nAdjoint(T(86))\nT(87)\nCNOT(wires=[30, 57])\nT(21)"}
+{"image": "./circuit_images_resized/data4726.png", "code": "T(8)\nAdjoint(T(55))\nCNOT(wires=[56, 95])\nT(9)\nAdjoint(T(53))"}
+{"image": "./circuit_images_resized/data971.png", "code": "Adjoint(T(10))\nT(9)\nCNOT(wires=[0, 10])\nCNOT(wires=[4, 9])\nT(10)"}
+{"image": "./circuit_images_resized/data8358.png", "code": "CNOT(wires=[6, 126])\nAdjoint(T(133))\nT(125)\nT(134)\nCNOT(wires=[13, 122])"}
+{"image": "./circuit_images_resized/data3796.png", "code": "Adjoint(T(76))\nT(77)\nCNOT(wires=[24, 53])\nAdjoint(T(78))\nT(52)"}
+{"image": "./circuit_images_resized/data2752.png", "code": "CNOT(wires=[1, 40])\nCNOT(wires=[21, 39])\nCNOT(wires=[3, 38])\nT(4)\nAdjoint(T(17))"}
+{"image": "./circuit_images_resized/data7800.png", "code": "Adjoint(T(103))\nCNOT(wires=[104, 144])\nCNOT(wires=[43, 145])\nCNOT(wires=[101, 146])\nCNOT(wires=[47, 147])"}
+{"image": "./circuit_images_resized/data7068.png", "code": "Adjoint(T(129))\nT(130)\nCNOT(wires=[21, 109])\nAdjoint(T(131))\nT(108)"}
+{"image": "./circuit_images_resized/data7155.png", "code": "CNOT(wires=[31, 104])\nAdjoint(T(135))\nT(136)\nCNOT(wires=[33, 103])\nAdjoint(T(137))"}
+{"image": "./circuit_images_resized/data7541.png", "code": "CNOT(wires=[45, 99])\nAdjoint(T(144))\nT(145)\nCNOT(wires=[47, 98])\nAdjoint(T(146))"}
+{"image": "./circuit_images_resized/data3300.png", "code": "CNOT(wires=[28, 72])\nCNOT(wires=[43, 73])\nT(64)\nCNOT(wires=[10, 54])\nAdjoint(T(65))"}
+{"image": "./circuit_images_resized/data38.png", "code": "Adjoint(T(3))\nT(2)\nCNOT(wires=[0, 3])\nT(3)\nCNOT(wires=[0, 2])"}
+{"image": "./circuit_images_resized/data2738.png", "code": "CNOT(wires=[17, 37])\nCNOT(wires=[16, 36])\nCNOT(wires=[0, 27])\nAdjoint(T(42))\nT(41)"}
+{"image": "./circuit_images_resized/data2351.png", "code": "Adjoint(T(41))\nT(28)\nAdjoint(T(42))\nT(27)\nCNOT(wires=[7, 38])"}
+{"image": "./circuit_images_resized/data5399.png", "code": "Adjoint(T(83))\nT(50)\nAdjoint(T(82))\nT(48)\nAdjoint(T(81))"}
+{"image": "./circuit_images_resized/data6635.png", "code": "Adjoint(T(129))\nT(102)\nT(130)\nCNOT(wires=[32, 99])\nAdjoint(T(131))"}
+{"image": "./circuit_images_resized/data4980.png", "code": "T(87)\nCNOT(wires=[9, 46])\nT(86)\nCNOT(wires=[10, 44])\nT(85)"}
+{"image": "./circuit_images_resized/data2178.png", "code": "CNOT(wires=[10, 35])\nCNOT(wires=[12, 36])\nCNOT(wires=[14, 37])\nT(32)\nCNOT(wires=[4, 28])"}
+{"image": "./circuit_images_resized/data3906.png", "code": "CNOT(wires=[20, 77])\nCNOT(wires=[56, 78])\nCNOT(wires=[24, 79])\nT(27)\nAdjoint(T(53))"}
+{"image": "./circuit_images_resized/data5756.png", "code": "CNOT(wires=[59, 129])\nCNOT(wires=[69, 130])\nCNOT(wires=[63, 131])\nCNOT(wires=[57, 71])\nAdjoint(T(128))"}
+{"image": "./circuit_images_resized/data5084.png", "code": "CNOT(wires=[8, 85])\nCNOT(wires=[9, 84])\nCNOT(wires=[10, 83])\nCNOT(wires=[11, 82])\nCNOT(wires=[12, 81])"}
+{"image": "./circuit_images_resized/data3443.png", "code": "CNOT(wires=[5, 64])\nCNOT(wires=[58, 65])\nCNOT(wires=[9, 66])\nT(12)\nAdjoint(T(55))"}
+{"image": "./circuit_images_resized/data3811.png", "code": "T(55)\nT(77)\nCNOT(wires=[26, 52])\nAdjoint(T(78))\nT(79)"}
+{"image": "./circuit_images_resized/data157.png", "code": "T(27)\nCNOT(wires=[12, 28])\nCNOT(wires=[13, 29])\nT(28)\nCNOT(wires=[12, 26])"}
+{"image": "./circuit_images_resized/data4840.png", "code": "CNOT(wires=[13, 42])\nAdjoint(T(87))\nCNOT(wires=[14, 40])\nAdjoint(T(86))\nCNOT(wires=[15, 38])"}
+{"image": "./circuit_images_resized/data2348.png", "code": "T(39)\nT(40)\nT(41)\nT(42)\nCNOT(wires=[31, 38])"}
+{"image": "./circuit_images_resized/data3167.png", "code": "CNOT(wires=[44, 68])\nCNOT(wires=[27, 69])\nCNOT(wires=[41, 70])\nCNOT(wires=[31, 71])\nCNOT(wires=[16, 48])"}
+{"image": "./circuit_images_resized/data862.png", "code": "Adjoint(T(5))\nCNOT(wires=[0, 5])\nT(5)\nCNOT(wires=[1, 5])\nAdjoint(T(5))"}
+{"image": "./circuit_images_resized/data7635.png", "code": "T(133)\nCNOT(wires=[21, 113])\nAdjoint(T(134))\nT(135)\nCNOT(wires=[23, 112])"}
+{"image": "./circuit_images_resized/data936.png", "code": "H(8)\nCNOT(wires=[3, 5])\nH(8)\nCNOT(wires=[6, 8])\nAdjoint(T(8))"}
+{"image": "./circuit_images_resized/data3731.png", "code": "Adjoint(T(68))\nT(69)\nCNOT(wires=[8, 61])\nAdjoint(T(70))\nT(60)"}
+{"image": "./circuit_images_resized/data8389.png", "code": "CNOT(wires=[41, 148])\nT(44)\nAdjoint(T(105))\nCNOT(wires=[106, 149])\nCNOT(wires=[46, 150])"}
+{"image": "./circuit_images_resized/data6903.png", "code": "CNOT(wires=[95, 139])\nCNOT(wires=[46, 140])\nT(49)\nAdjoint(T(92))\nCNOT(wires=[93, 141])"}
+{"image": "./circuit_images_resized/data5664.png", "code": "Adjoint(T(70))\nCNOT(wires=[2, 35])\nAdjoint(T(69))\nCNOT(wires=[3, 33])\nAdjoint(T(68))"}
+{"image": "./circuit_images_resized/data6163.png", "code": "T(44)\nAdjoint(T(87))\nCNOT(wires=[88, 131])\nCNOT(wires=[46, 132])\nCNOT(wires=[85, 133])"}
+{"image": "./circuit_images_resized/data2441.png", "code": "H(46)\nT(13)\nAdjoint(T(18))\nH(47)\nCNOT(wires=[17, 46])"}
+{"image": "./circuit_images_resized/data98.png", "code": "Adjoint(T(9))\nH(10)\nT(7)\nAdjoint(T(8))\nH(11)"}
+{"image": "./circuit_images_resized/data810.png", "code": "Adjoint(T(8))\nCNOT(wires=[10, 8])\nT(8)\nCNOT(wires=[9, 8])\nAdjoint(T(8))"}
+{"image": "./circuit_images_resized/data4852.png", "code": "Adjoint(T(93))\nT(55)\nAdjoint(T(92))\nT(53)\nAdjoint(T(91))"}
+{"image": "./circuit_images_resized/data5804.png", "code": "CNOT(wires=[55, 74])\nAdjoint(T(130))\nT(73)\nT(131)\nCNOT(wires=[62, 70])"}
+{"image": "./circuit_images_resized/data5368.png", "code": "CNOT(wires=[53, 85])\nCNOT(wires=[51, 84])\nCNOT(wires=[49, 83])\nCNOT(wires=[47, 82])\nCNOT(wires=[45, 81])"}
+{"image": "./circuit_images_resized/data7387.png", "code": "T(27)\nAdjoint(T(108))\nCNOT(wires=[109, 135])\nCNOT(wires=[29, 136])\nCNOT(wires=[106, 137])"}
+{"image": "./circuit_images_resized/data7367.png", "code": "CNOT(wires=[50, 95])\nAdjoint(T(145))\nT(146)\nCNOT(wires=[52, 94])\nAdjoint(T(147))"}
+{"image": "./circuit_images_resized/data7738.png", "code": "CNOT(wires=[26, 111])\nAdjoint(T(138))\nT(110)\nT(139)\nCNOT(wires=[33, 107])"}
+{"image": "./circuit_images_resized/data7359.png", "code": "T(50)\nAdjoint(T(95))\nCNOT(wires=[96, 145])\nCNOT(wires=[52, 146])\nCNOT(wires=[93, 147])"}
+{"image": "./circuit_images_resized/data6477.png", "code": "CNOT(wires=[99, 129])\nCNOT(wires=[33, 130])\nCNOT(wires=[96, 131])\nCNOT(wires=[37, 132])\nT(40)"}
+{"image": "./circuit_images_resized/data1883.png", "code": "CNOT(wires=[7, 19])\nT(27)\nCNOT(wires=[9, 18])\nT(7)\nAdjoint(T(19))"}
+{"image": "./circuit_images_resized/data2828.png", "code": "CNOT(wires=[0, 18])\nCNOT(wires=[1, 16])\nH(33)\nT(0)\nAdjoint(T(18))"}
+{"image": "./circuit_images_resized/data6794.png", "code": "CNOT(wires=[42, 95])\nAdjoint(T(138))\nT(94)\nT(139)\nCNOT(wires=[49, 91])"}
+{"image": "./circuit_images_resized/data6969.png", "code": "CNOT(wires=[95, 140])\nCNOT(wires=[47, 141])\nT(50)\nAdjoint(T(92))\nCNOT(wires=[93, 142])"}
+{"image": "./circuit_images_resized/data7145.png", "code": "Adjoint(T(146))\nT(147)\nCNOT(wires=[58, 89])\nAdjoint(T(148))\nT(88)"}
+{"image": "./circuit_images_resized/data2747.png", "code": "T(38)\nAdjoint(T(37))\nT(17)\nCNOT(wires=[0, 42])\nT(1)"}
+{"image": "./circuit_images_resized/data6975.png", "code": "CNOT(wires=[41, 97])\nAdjoint(T(138))\nT(139)\nCNOT(wires=[43, 96])\nAdjoint(T(140))"}
+{"image": "./circuit_images_resized/data133.png", "code": "CNOT(wires=[10, 12])\nCNOT(wires=[11, 13])\nCNOT(wires=[24, 26])\nCNOT(wires=[25, 27])\nAdjoint(T(12))"}
+{"image": "./circuit_images_resized/data4607.png", "code": "CNOT(wires=[20, 35])\nT(86)\nCNOT(wires=[21, 33])\nT(12)\nAdjoint(T(51))"}
+{"image": "./circuit_images_resized/data989.png", "code": "CNOT(wires=[7, 11])\nAdjoint(T(10))\nAdjoint(T(11))\nCNOT(wires=[2, 10])\nCNOT(wires=[4, 11])"}
+{"image": "./circuit_images_resized/data7048.png", "code": "CNOT(wires=[109, 130])\nCNOT(wires=[23, 131])\nT(26)\nAdjoint(T(106))\nCNOT(wires=[107, 132])"}
+{"image": "./circuit_images_resized/data6351.png", "code": "T(129)\nCNOT(wires=[34, 95])\nAdjoint(T(130))\nT(94)\nT(131)"}
+{"image": "./circuit_images_resized/data1511.png", "code": "H(18)\nH(19)\nH(20)\nH(21)\nH(22)"}
+{"image": "./circuit_images_resized/data1427.png", "code": "CNOT(wires=[12, 23])\nCNOT(wires=[4, 22])\nT(5)\nAdjoint(T(8))\nH(21)"}
+{"image": "./circuit_images_resized/data7622.png", "code": "Adjoint(T(143))\nT(102)\nT(144)\nCNOT(wires=[46, 99])\nAdjoint(T(145))"}
+{"image": "./circuit_images_resized/data8074.png", "code": "CNOT(wires=[17, 118])\nAdjoint(T(135))\nT(136)\nCNOT(wires=[19, 117])\nAdjoint(T(137))"}
+{"image": "./circuit_images_resized/data925.png", "code": "CNOT(wires=[11, 12])\nAdjoint(T(12))\nT(11)\nCNOT(wires=[3, 12])\nT(12)"}
+{"image": "./circuit_images_resized/data8546.png", "code": "CNOT(wires=[10, 125])\nAdjoint(T(136))\nT(124)\nT(137)\nCNOT(wires=[17, 121])"}
+{"image": "./circuit_images_resized/data6177.png", "code": "Adjoint(T(136))\nT(137)\nCNOT(wires=[57, 80])\nAdjoint(T(138))\nT(79)"}
+{"image": "./circuit_images_resized/data2543.png", "code": "CNOT(wires=[6, 45])\nCNOT(wires=[21, 44])\nCNOT(wires=[8, 43])\nT(9)\nAdjoint(T(17))"}
+{"image": "./circuit_images_resized/data6690.png", "code": "CNOT(wires=[39, 135])\nT(42)\nAdjoint(T(94))\nCNOT(wires=[95, 136])\nCNOT(wires=[44, 137])"}
+{"image": "./circuit_images_resized/data1435.png", "code": "CNOT(wires=[11, 22])\nCNOT(wires=[4, 21])\nT(23)\nAdjoint(T(22))\nT(11)"}
+{"image": "./circuit_images_resized/data148.png", "code": "T(25)\nCNOT(wires=[5, 13])\nCNOT(wires=[4, 12])\nCNOT(wires=[19, 27])\nCNOT(wires=[18, 26])"}
+{"image": "./circuit_images_resized/data3473.png", "code": "CNOT(wires=[18, 52])\nAdjoint(T(70))\nT(71)\nCNOT(wires=[20, 51])\nAdjoint(T(72))"}
+{"image": "./circuit_images_resized/data3134.png", "code": "CNOT(wires=[46, 65])\nCNOT(wires=[22, 66])\nCNOT(wires=[43, 67])\nCNOT(wires=[26, 68])\nT(29)"}
+{"image": "./circuit_images_resized/data81.png", "code": "CNOT(wires=[9, 10])\nCNOT(wires=[8, 11])\nCNOT(wires=[17, 18])\nCNOT(wires=[16, 19])\nCNOT(wires=[23, 24])"}
+{"image": "./circuit_images_resized/data275.png", "code": "Adjoint(T(25))\nH(4)\nH(12)\nH(19)\nCNOT(wires=[1, 2])"}
+{"image": "./circuit_images_resized/data6408.png", "code": "CNOT(wires=[86, 138])\nCNOT(wires=[55, 139])\nCNOT(wires=[83, 140])\nCNOT(wires=[59, 141])\nT(62)"}
+{"image": "./circuit_images_resized/data7287.png", "code": "T(133)\nCNOT(wires=[24, 109])\nAdjoint(T(134))\nT(108)\nT(135)"}
+{"image": "./circuit_images_resized/data1184.png", "code": "CNOT(wires=[5, 10])\nT(3)\nAdjoint(T(11))\nH(14)\nT(5)"}
+{"image": "./circuit_images_resized/data263.png", "code": "T(12)\nT(15)\nT(19)\nT(23)\nT(0)"}
+{"image": "./circuit_images_resized/data7519.png", "code": "CNOT(wires=[9, 119])\nAdjoint(T(129))\nT(118)\nT(130)\nCNOT(wires=[16, 115])"}
+{"image": "./circuit_images_resized/data147.png", "code": "Adjoint(T(12))\nT(11)\nAdjoint(T(27))\nT(24)\nAdjoint(T(26))"}
+{"image": "./circuit_images_resized/data8432.png", "code": "Adjoint(T(149))\nT(106)\nT(150)\nCNOT(wires=[48, 103])\nAdjoint(T(151))"}
+{"image": "./circuit_images_resized/data7885.png", "code": "CNOT(wires=[17, 134])\nCNOT(wires=[116, 135])\nCNOT(wires=[21, 136])\nT(24)\nAdjoint(T(113))"}
+{"image": "./circuit_images_resized/data4129.png", "code": "CNOT(wires=[59, 84])\nCNOT(wires=[28, 85])\nCNOT(wires=[56, 86])\nH(80)\nCNOT(wires=[17, 63])"}
+{"image": "./circuit_images_resized/data6301.png", "code": "CNOT(wires=[42, 132])\nCNOT(wires=[89, 133])\nCNOT(wires=[46, 134])\nT(49)\nAdjoint(T(86))"}
+{"image": "./circuit_images_resized/data4814.png", "code": "CNOT(wires=[34, 83])\nCNOT(wires=[32, 82])\nAdjoint(T(95))\nT(58)\nAdjoint(T(94))"}
+{"image": "./circuit_images_resized/data1901.png", "code": "H(29)\nCNOT(wires=[12, 29])\nCNOT(wires=[8, 28])\nAdjoint(T(29))\nT(28)"}
+{"image": "./circuit_images_resized/data2584.png", "code": "H(41)\nT(3)\nAdjoint(T(28))\nH(47)\nCNOT(wires=[27, 46])"}
+{"image": "./circuit_images_resized/data7532.png", "code": "CNOT(wires=[102, 142])\nCNOT(wires=[42, 143])\nT(45)\nAdjoint(T(99))\nCNOT(wires=[100, 144])"}
+{"image": "./circuit_images_resized/data1725.png", "code": "T(21)\nCNOT(wires=[2, 10])\nCNOT(wires=[14, 23])\nCNOT(wires=[1, 22])\nT(2)"}
+{"image": "./circuit_images_resized/data1488.png", "code": "CNOT(wires=[10, 19])\nCNOT(wires=[2, 18])\nT(20)\nAdjoint(T(19))\nT(10)"}
+{"image": "./circuit_images_resized/data5974.png", "code": "Adjoint(T(79))\nCNOT(wires=[80, 132])\nCNOT(wires=[55, 133])\nCNOT(wires=[77, 134])\nCNOT(wires=[59, 135])"}
+{"image": "./circuit_images_resized/data4832.png", "code": "T(11)\nAdjoint(T(46))\nCNOT(wires=[47, 89])\nT(12)\nAdjoint(T(44))"}
+{"image": "./circuit_images_resized/data3891.png", "code": "CNOT(wires=[63, 72])\nCNOT(wires=[11, 73])\nT(14)\nAdjoint(T(60))\nCNOT(wires=[61, 74])"}
+{"image": "./circuit_images_resized/data3994.png", "code": "Adjoint(T(59))\nCNOT(wires=[60, 78])\nCNOT(wires=[21, 79])\nCNOT(wires=[57, 80])\nCNOT(wires=[25, 81])"}
+{"image": "./circuit_images_resized/data7806.png", "code": "CNOT(wires=[23, 113])\nAdjoint(T(136))\nT(137)\nCNOT(wires=[25, 112])\nAdjoint(T(138))"}
+{"image": "./circuit_images_resized/data6412.png", "code": "CNOT(wires=[46, 89])\nAdjoint(T(136))\nT(88)\nT(137)\nCNOT(wires=[53, 85])"}
+{"image": "./circuit_images_resized/data4927.png", "code": "CNOT(wires=[37, 83])\nCNOT(wires=[35, 82])\nCNOT(wires=[33, 81])\nAdjoint(T(95))\nT(61)"}
+{"image": "./circuit_images_resized/data4239.png", "code": "T(90)\nCNOT(wires=[24, 87])\nT(27)\nAdjoint(T(61))\nCNOT(wires=[62, 88])"}
+{"image": "./circuit_images_resized/data8459.png", "code": "T(52)\nAdjoint(T(101))\nCNOT(wires=[102, 153])\nCNOT(wires=[54, 154])\nCNOT(wires=[99, 155])"}
+{"image": "./circuit_images_resized/data1158.png", "code": "CNOT(wires=[1, 13])\nAdjoint(T(14))\nT(8)\nT(13)\nCNOT(wires=[1, 6])"}
+{"image": "./circuit_images_resized/data5540.png", "code": "Adjoint(T(72))\nCNOT(wires=[0, 78])\nCNOT(wires=[1, 77])\nCNOT(wires=[2, 76])\nCNOT(wires=[3, 75])"}
+{"image": "./circuit_images_resized/data6129.png", "code": "CNOT(wires=[52, 82])\nAdjoint(T(134))\nT(135)\nCNOT(wires=[54, 81])\nAdjoint(T(136))"}
+{"image": "./circuit_images_resized/data3004.png", "code": "T(34)\nCNOT(wires=[30, 64])\nT(64)\nCNOT(wires=[30, 34])\nT(30)"}
+{"image": "./circuit_images_resized/data15.png", "code": "CNOT(wires=[4, 6])\nCNOT(wires=[7, 9])\nT(3)\nT(6)\nT(9)"}
+{"image": "./circuit_images_resized/data3606.png", "code": "T(74)\nCNOT(wires=[23, 51])\nAdjoint(T(75))\nT(50)\nT(76)"}
+{"image": "./circuit_images_resized/data3095.png", "code": "T(43)\nT(66)\nCNOT(wires=[27, 40])\nAdjoint(T(67))\nT(68)"}
+{"image": "./circuit_images_resized/data2110.png", "code": "Adjoint(T(33))\nAdjoint(T(34))\nAdjoint(T(35))\nCNOT(wires=[8, 32])\nCNOT(wires=[10, 33])"}
+{"image": "./circuit_images_resized/data3671.png", "code": "CNOT(wires=[52, 75])\nCNOT(wires=[25, 76])\nT(28)\nAdjoint(T(49))\nCNOT(wires=[50, 77])"}
+{"image": "./circuit_images_resized/data3402.png", "code": "CNOT(wires=[20, 50])\nAdjoint(T(71))\nT(49)\nT(72)\nCNOT(wires=[27, 46])"}
+{"image": "./circuit_images_resized/data2754.png", "code": "T(21)\nT(38)\nCNOT(wires=[3, 19])\nCNOT(wires=[4, 17])\nH(37)"}
+{"image": "./circuit_images_resized/data6756.png", "code": "CNOT(wires=[36, 98])\nAdjoint(T(135))\nT(97)\nT(136)\nCNOT(wires=[43, 94])"}
+{"image": "./circuit_images_resized/data6803.png", "code": "CNOT(wires=[62, 146])\nT(128)\nCNOT(wires=[24, 105])\nAdjoint(T(129))\nT(130)"}
+{"image": "./circuit_images_resized/data5986.png", "code": "CNOT(wires=[80, 132])\nCNOT(wires=[54, 133])\nT(57)\nAdjoint(T(77))\nCNOT(wires=[78, 134])"}
+{"image": "./circuit_images_resized/data904.png", "code": "T(17)\nCNOT(wires=[16, 17])\nAdjoint(T(17))\nT(16)\nCNOT(wires=[8, 17])"}
+{"image": "./circuit_images_resized/data4004.png", "code": "Adjoint(T(81))\nT(56)\nT(82)\nCNOT(wires=[30, 53])\nAdjoint(T(83))"}
+{"image": "./circuit_images_resized/data5233.png", "code": "Adjoint(T(77))\nCNOT(wires=[0, 89])\nCNOT(wires=[1, 88])\nCNOT(wires=[2, 87])\nCNOT(wires=[3, 86])"}
+{"image": "./circuit_images_resized/data4120.png", "code": "CNOT(wires=[58, 84])\nCNOT(wires=[28, 85])\nT(31)\nAdjoint(T(55))\nCNOT(wires=[56, 86])"}
+{"image": "./circuit_images_resized/data1278.png", "code": "CNOT(wires=[2, 9])\nH(18)\nAdjoint(T(17))\nAdjoint(T(16))\nCNOT(wires=[0, 20])"}
+{"image": "./circuit_images_resized/data5221.png", "code": "T(3)\nAdjoint(T(52))\nCNOT(wires=[53, 87])\nT(4)\nAdjoint(T(50))"}
+{"image": "./circuit_images_resized/data1379.png", "code": "T(3)\nAdjoint(T(15))\nH(18)\nT(5)\nAdjoint(T(14))"}
+{"image": "./circuit_images_resized/data8014.png", "code": "CNOT(wires=[40, 145])\nCNOT(wires=[104, 146])\nCNOT(wires=[44, 147])\nT(47)\nAdjoint(T(101))"}
+{"image": "./circuit_images_resized/data7724.png", "code": "CNOT(wires=[49, 98])\nAdjoint(T(147))\nT(148)\nCNOT(wires=[51, 97])\nAdjoint(T(149))"}
+{"image": "./circuit_images_resized/data5350.png", "code": "CNOT(wires=[8, 38])\nT(77)\nCNOT(wires=[9, 36])\nT(76)\nCNOT(wires=[10, 34])"}
+{"image": "./circuit_images_resized/data4982.png", "code": "T(82)\nCNOT(wires=[14, 36])\nT(81)\nCNOT(wires=[15, 34])\nT(80)"}
+{"image": "./circuit_images_resized/data2924.png", "code": "Adjoint(T(11))\nCNOT(wires=[2, 11])\nT(11)\nCNOT(wires=[10, 11])\nAdjoint(T(11))"}
+{"image": "./circuit_images_resized/data3386.png", "code": "CNOT(wires=[16, 52])\nAdjoint(T(69))\nT(51)\nT(70)\nCNOT(wires=[23, 48])"}
+{"image": "./circuit_images_resized/data5031.png", "code": "T(10)\nAdjoint(T(43))\nCNOT(wires=[44, 85])\nT(11)\nAdjoint(T(41))"}
+{"image": "./circuit_images_resized/data7273.png", "code": "T(136)\nCNOT(wires=[31, 105])\nAdjoint(T(137))\nT(104)\nT(138)"}
+{"image": "./circuit_images_resized/data4845.png", "code": "CNOT(wires=[17, 82])\nCNOT(wires=[32, 81])\nT(95)\nT(94)\nT(93)"}
+{"image": "./circuit_images_resized/data5157.png", "code": "Adjoint(T(86))\nCNOT(wires=[7, 46])\nAdjoint(T(85))\nCNOT(wires=[8, 44])\nAdjoint(T(84))"}
+{"image": "./circuit_images_resized/data8175.png", "code": "Adjoint(T(117))\nCNOT(wires=[118, 137])\nCNOT(wires=[22, 138])\nCNOT(wires=[115, 139])\nCNOT(wires=[26, 140])"}
+{"image": "./circuit_images_resized/data1100.png", "code": "CNOT(wires=[4, 11])\nCNOT(wires=[11, 16])\nAdjoint(T(16))\nCNOT(wires=[5, 16])\nT(16)"}
+{"image": "./circuit_images_resized/data5606.png", "code": "T(72)\nCNOT(wires=[3, 37])\nT(71)\nCNOT(wires=[4, 35])\nT(70)"}
+{"image": "./circuit_images_resized/data7246.png", "code": "T(96)\nT(144)\nCNOT(wires=[52, 93])\nAdjoint(T(145))\nT(146)"}
+{"image": "./circuit_images_resized/data1166.png", "code": "CNOT(wires=[0, 6])\nT(0)\nAdjoint(T(6))\nH(12)\nCNOT(wires=[0, 6])"}
+{"image": "./circuit_images_resized/data397.png", "code": "CNOT(wires=[14, 15])\nAdjoint(T(18))\nAdjoint(T(0))\nT(7)\nCNOT(wires=[4, 8])"}
+{"image": "./circuit_images_resized/data6139.png", "code": "T(38)\nAdjoint(T(90))\nCNOT(wires=[91, 128])\nCNOT(wires=[40, 129])\nCNOT(wires=[88, 130])"}
+{"image": "./circuit_images_resized/data1618.png", "code": "CNOT(wires=[17, 25])\nCNOT(wires=[19, 23])\nAdjoint(T(25))\nH(23)\nH(19)"}
+{"image": "./circuit_images_resized/data7860.png", "code": "T(140)\nCNOT(wires=[31, 109])\nAdjoint(T(141))\nT(108)\nT(142)"}
+{"image": "./circuit_images_resized/data7130.png", "code": "T(94)\nT(144)\nCNOT(wires=[54, 91])\nAdjoint(T(145))\nT(146)"}
+{"image": "./circuit_images_resized/data2115.png", "code": "CNOT(wires=[12, 34])\nCNOT(wires=[14, 35])\nT(32)\nCNOT(wires=[8, 24])\nT(33)"}
+{"image": "./circuit_images_resized/data574.png", "code": "H(3)\nCNOT(wires=[5, 8])\nCNOT(wires=[11, 14])\nCNOT(wires=[18, 21])\nCNOT(wires=[0, 1])"}
+{"image": "./circuit_images_resized/data1211.png", "code": "H(16)\nT(6)\nAdjoint(T(11))\nH(17)\nCNOT(wires=[2, 13])"}
+{"image": "./circuit_images_resized/data4029.png", "code": "Adjoint(T(58))\nCNOT(wires=[59, 80])\nCNOT(wires=[24, 81])\nCNOT(wires=[56, 82])\nCNOT(wires=[28, 83])"}
+{"image": "./circuit_images_resized/data7984.png", "code": "CNOT(wires=[25, 113])\nAdjoint(T(138))\nT(139)\nCNOT(wires=[27, 112])\nAdjoint(T(140))"}
+{"image": "./circuit_images_resized/data7963.png", "code": "T(130)\nCNOT(wires=[7, 123])\nAdjoint(T(131))\nT(122)\nT(132)"}
+{"image": "./circuit_images_resized/data2454.png", "code": "CNOT(wires=[12, 18])\nCNOT(wires=[13, 16])\nH(45)\nCNOT(wires=[11, 47])\nT(12)"}
+{"image": "./circuit_images_resized/data6821.png", "code": "CNOT(wires=[55, 88])\nAdjoint(T(144))\nT(87)\nT(145)\nCNOT(wires=[62, 84])"}
+{"image": "./circuit_images_resized/data3739.png", "code": "Adjoint(T(69))\nT(70)\nCNOT(wires=[10, 60])\nAdjoint(T(71))\nT(59)"}
+{"image": "./circuit_images_resized/data4241.png", "code": "T(89)\nCNOT(wires=[29, 60])\nAdjoint(T(90))\nT(59)\nCNOT(wires=[63, 87])"}
+{"image": "./circuit_images_resized/data7917.png", "code": "CNOT(wires=[55, 96])\nAdjoint(T(152))\nT(95)\nT(153)\nCNOT(wires=[62, 92])"}
+{"image": "./circuit_images_resized/data3860.png", "code": "T(63)\nT(72)\nCNOT(wires=[13, 60])\nAdjoint(T(73))\nT(74)"}
+{"image": "./circuit_images_resized/data5426.png", "code": "CNOT(wires=[39, 77])\nCNOT(wires=[37, 76])\nCNOT(wires=[35, 75])\nCNOT(wires=[33, 74])\nAdjoint(T(83))"}
+{"image": "./circuit_images_resized/data5955.png", "code": "CNOT(wires=[63, 73])\nAdjoint(T(136))\nCNOT(wires=[44, 128])\nT(47)\nAdjoint(T(82))"}
+{"image": "./circuit_images_resized/data8151.png", "code": "Adjoint(T(147))\nT(148)\nCNOT(wires=[45, 103])\nAdjoint(T(149))\nT(102)"}
+{"image": "./circuit_images_resized/data3792.png", "code": "CNOT(wires=[55, 76])\nCNOT(wires=[24, 77])\nCNOT(wires=[52, 78])\nCNOT(wires=[28, 79])\nT(31)"}
+{"image": "./circuit_images_resized/data2084.png", "code": "CNOT(wires=[11, 21])\nT(33)\nCNOT(wires=[13, 20])\nT(34)\nCNOT(wires=[15, 19])"}
+{"image": "./circuit_images_resized/data1789.png", "code": "CNOT(wires=[4, 20])\nCNOT(wires=[6, 21])\nCNOT(wires=[8, 22])\nT(20)\nCNOT(wires=[4, 16])"}
+{"image": "./circuit_images_resized/data111.png", "code": "T(4)\nT(5)\nT(10)\nT(11)\nT(18)"}
+{"image": "./circuit_images_resized/data2032.png", "code": "T(22)\nT(0)\nAdjoint(T(15))\nH(25)\nCNOT(wires=[14, 24])"}
+{"image": "./circuit_images_resized/data5055.png", "code": "Adjoint(T(83))\nT(40)\nAdjoint(T(82))\nT(38)\nAdjoint(T(81))"}
+{"image": "./circuit_images_resized/data5113.png", "code": "CNOT(wires=[42, 83])\nT(11)\nAdjoint(T(39))\nCNOT(wires=[40, 82])\nT(12)"}
+{"image": "./circuit_images_resized/data2060.png", "code": "H(42)\nH(43)\nH(44)\nH(45)\nH(46)"}
+{"image": "./circuit_images_resized/data6568.png", "code": "Adjoint(T(129))\nT(130)\nCNOT(wires=[31, 99])\nAdjoint(T(131))\nT(98)"}
+{"image": "./circuit_images_resized/data7816.png", "code": "CNOT(wires=[27, 138])\nCNOT(wires=[110, 139])\nCNOT(wires=[31, 140])\nT(34)\nAdjoint(T(107))"}
+{"image": "./circuit_images_resized/data6529.png", "code": "T(144)\nCNOT(wires=[101, 128])\nCNOT(wires=[29, 129])\nT(32)\nAdjoint(T(98))"}
+{"image": "./circuit_images_resized/data1268.png", "code": "CNOT(wires=[2, 10])\nH(19)\nAdjoint(T(18))\nT(17)\nT(1)"}
+{"image": "./circuit_images_resized/data4736.png", "code": "CNOT(wires=[15, 41])\nAdjoint(T(88))\nCNOT(wires=[16, 39])\nAdjoint(T(87))\nCNOT(wires=[17, 37])"}
+{"image": "./circuit_images_resized/data6974.png", "code": "T(135)\nCNOT(wires=[34, 101])\nAdjoint(T(136))\nT(100)\nT(137)"}
+{"image": "./circuit_images_resized/data5013.png", "code": "T(45)\nAdjoint(T(85))\nT(43)\nAdjoint(T(84))\nT(41)"}
+{"image": "./circuit_images_resized/data5655.png", "code": "CNOT(wires=[3, 68])\nCNOT(wires=[32, 67])\nT(71)\nT(70)\nT(69)"}
+{"image": "./circuit_images_resized/data6815.png", "code": "T(62)\nAdjoint(T(84))\nCNOT(wires=[85, 146])\nAdjoint(T(128))\nT(107)"}
+{"image": "./circuit_images_resized/data6994.png", "code": "Adjoint(T(105))\nCNOT(wires=[106, 132])\nCNOT(wires=[29, 133])\nCNOT(wires=[103, 134])\nCNOT(wires=[33, 135])"}
+{"image": "./circuit_images_resized/data8240.png", "code": "T(107)\nT(147)\nCNOT(wires=[44, 104])\nAdjoint(T(148))\nT(149)"}
+{"image": "./circuit_images_resized/data2582.png", "code": "CNOT(wires=[3, 28])\nCNOT(wires=[4, 26])\nH(46)\nAdjoint(T(45))\nT(44)"}
+{"image": "./circuit_images_resized/data6044.png", "code": "T(48)\nAdjoint(T(83))\nCNOT(wires=[84, 131])\nCNOT(wires=[50, 132])\nCNOT(wires=[81, 133])"}
+{"image": "./circuit_images_resized/data7591.png", "code": "CNOT(wires=[53, 95])\nAdjoint(T(149))\nT(94)\nT(150)\nCNOT(wires=[60, 91])"}
+{"image": "./circuit_images_resized/data6342.png", "code": "Adjoint(T(131))\nT(132)\nCNOT(wires=[41, 91])\nAdjoint(T(133))\nT(90)"}
+{"image": "./circuit_images_resized/data4792.png", "code": "CNOT(wires=[16, 37])\nT(84)\nCNOT(wires=[17, 35])\nT(83)\nCNOT(wires=[18, 33])"}
+{"image": "./circuit_images_resized/data2367.png", "code": "CNOT(wires=[12, 29])\nT(42)\nCNOT(wires=[14, 28])\nT(8)\nAdjoint(T(31))"}
+{"image": "./circuit_images_resized/data5419.png", "code": "Adjoint(T(77))\nCNOT(wires=[8, 36])\nAdjoint(T(76))\nCNOT(wires=[9, 34])\nAdjoint(T(75))"}
+{"image": "./circuit_images_resized/data944.png", "code": "H(8)\nT(3)\nAdjoint(T(6))\nH(9)\nCNOT(wires=[1, 7])"}
+{"image": "./circuit_images_resized/data3535.png", "code": "Adjoint(T(77))\nCNOT(wires=[62, 64])\nCNOT(wires=[4, 65])\nT(7)\nAdjoint(T(59))"}
+{"image": "./circuit_images_resized/data8359.png", "code": "Adjoint(T(135))\nT(136)\nCNOT(wires=[15, 121])\nAdjoint(T(137))\nT(120)"}
+{"image": "./circuit_images_resized/data2017.png", "code": "T(26)\nAdjoint(T(25))\nT(14)\nT(24)\nCNOT(wires=[2, 12])"}
+{"image": "./circuit_images_resized/data1255.png", "code": "CNOT(wires=[3, 19])\nT(4)\nAdjoint(T(7))\nH(18)\nAdjoint(T(20))"}
+{"image": "./circuit_images_resized/data1431.png", "code": "H(22)\nAdjoint(T(21))\nAdjoint(T(20))\nT(3)\nAdjoint(T(12))"}
+{"image": "./circuit_images_resized/data2595.png", "code": "CNOT(wires=[18, 41])\nCNOT(wires=[8, 40])\nT(47)\nAdjoint(T(46))\nT(27)"}
+{"image": "./circuit_images_resized/data5916.png", "code": "CNOT(wires=[82, 128])\nCNOT(wires=[48, 129])\nT(51)\nAdjoint(T(79))\nCNOT(wires=[80, 130])"}
+{"image": "./circuit_images_resized/data3301.png", "code": "T(53)\nT(66)\nCNOT(wires=[17, 50])\nAdjoint(T(67))\nT(68)"}
+{"image": "./circuit_images_resized/data1386.png", "code": "Adjoint(T(15))\nH(19)\nT(6)\nAdjoint(T(14))\nH(20)"}
+{"image": "./circuit_images_resized/data691.png", "code": "CNOT(wires=[8, 10])\nCNOT(wires=[14, 16])\nCNOT(wires=[3, 4])\nAdjoint(T(10))\nT(8)"}
+{"image": "./circuit_images_resized/data5896.png", "code": "CNOT(wires=[79, 130])\nCNOT(wires=[54, 131])\nCNOT(wires=[76, 132])\nCNOT(wires=[58, 133])\nT(61)"}
+{"image": "./circuit_images_resized/data1756.png", "code": "H(20)\nH(21)\nH(22)\nH(23)\nH(24)"}
+{"image": "./circuit_images_resized/data1159.png", "code": "CNOT(wires=[0, 14])\nT(1)\nAdjoint(T(6))\nH(13)\nT(14)"}
+{"image": "./circuit_images_resized/data5261.png", "code": "Adjoint(T(35))\nCNOT(wires=[36, 78])\nT(12)\nAdjoint(T(33))\nCNOT(wires=[34, 77])"}
+{"image": "./circuit_images_resized/data7046.png", "code": "T(90)\nT(146)\nCNOT(wires=[60, 87])\nAdjoint(T(147))\nT(148)"}
+{"image": "./circuit_images_resized/data2280.png", "code": "CNOT(wires=[27, 38])\nCNOT(wires=[26, 39])\nCNOT(wires=[25, 40])\nAdjoint(T(34))\nT(31)"}
+{"image": "./circuit_images_resized/data3822.png", "code": "CNOT(wires=[23, 77])\nCNOT(wires=[53, 78])\nCNOT(wires=[27, 79])\nT(30)\nAdjoint(T(50))"}
+{"image": "./circuit_images_resized/data2333.png", "code": "T(37)\nT(38)\nT(39)\nT(40)\nT(41)"}
+{"image": "./circuit_images_resized/data743.png", "code": "Adjoint(T(8))\nCNOT(wires=[6, 8])\nT(8)\nCNOT(wires=[7, 8])\nAdjoint(T(8))"}
+{"image": "./circuit_images_resized/data4208.png", "code": "CNOT(wires=[63, 85])\nCNOT(wires=[25, 86])\nCNOT(wires=[60, 87])\nCNOT(wires=[29, 88])\nCNOT(wires=[58, 89])"}
+{"image": "./circuit_images_resized/data3251.png", "code": "CNOT(wires=[19, 48])\nAdjoint(T(67))\nT(68)\nCNOT(wires=[21, 47])\nAdjoint(T(69))"}
+{"image": "./circuit_images_resized/data2698.png", "code": "CNOT(wires=[17, 38])\nCNOT(wires=[16, 37])\nT(45)\nCNOT(wires=[0, 29])\nCNOT(wires=[1, 27])"}
+{"image": "./circuit_images_resized/data4215.png", "code": "Adjoint(T(85))\nT(63)\nT(86)\nCNOT(wires=[27, 60])\nAdjoint(T(87))"}
+{"image": "./circuit_images_resized/data728.png", "code": "X(3)\nCNOT(wires=[5, 6])\nCNOT(wires=[2, 3])\nAdjoint(T(6))\nT(5)"}
+{"image": "./circuit_images_resized/data7119.png", "code": "CNOT(wires=[24, 132])\nT(27)\nAdjoint(T(106))\nCNOT(wires=[107, 133])\nCNOT(wires=[29, 134])"}
+{"image": "./circuit_images_resized/data8133.png", "code": "Adjoint(T(148))\nT(103)\nT(149)\nCNOT(wires=[50, 100])\nAdjoint(T(150))"}
+{"image": "./circuit_images_resized/data4041.png", "code": "CNOT(wires=[28, 83])\nCNOT(wires=[54, 84])\nT(77)\nCNOT(wires=[17, 61])\nAdjoint(T(78))"}
+{"image": "./circuit_images_resized/data5769.png", "code": "CNOT(wires=[72, 129])\nCNOT(wires=[60, 130])\nCNOT(wires=[69, 131])\nT(128)\nCNOT(wires=[58, 71])"}
+{"image": "./circuit_images_resized/data423.png", "code": "Adjoint(T(15))\nCNOT(wires=[1, 4])\nCNOT(wires=[5, 8])\nCNOT(wires=[9, 12])\nCNOT(wires=[13, 15])"}
+{"image": "./circuit_images_resized/data2592.png", "code": "CNOT(wires=[5, 23])\nCNOT(wires=[6, 21])\nH(43)\nAdjoint(T(42))\nT(41)"}
+{"image": "./circuit_images_resized/data6827.png", "code": "CNOT(wires=[57, 144])\nCNOT(wires=[86, 145])\nCNOT(wires=[61, 146])\nCNOT(wires=[84, 147])\nT(128)"}
+{"image": "./circuit_images_resized/data6245.png", "code": "Adjoint(T(138))\nT(81)\nT(139)\nCNOT(wires=[62, 78])\nAdjoint(T(140))"}
+{"image": "./circuit_images_resized/data184.png", "code": "CNOT(wires=[17, 18])\nT(23)\nCNOT(wires=[21, 22])\nT(0)\nAdjoint(T(1))"}
+{"image": "./circuit_images_resized/data6360.png", "code": "Adjoint(T(80))\nCNOT(wires=[81, 141])\nCNOT(wires=[63, 142])\nT(128)\nCNOT(wires=[34, 95])"}
+{"image": "./circuit_images_resized/data1294.png", "code": "Adjoint(T(7))\nH(16)\nAdjoint(T(18))\nT(11)\nT(17)"}
+{"image": "./circuit_images_resized/data7953.png", "code": "T(153)\nCNOT(wires=[59, 94])\nAdjoint(T(154))\nT(93)\nT(155)"}
+{"image": "./circuit_images_resized/data8180.png", "code": "CNOT(wires=[98, 153])\nCNOT(wires=[58, 154])\nCNOT(wires=[95, 155])\nCNOT(wires=[62, 156])\nH(129)"}
+{"image": "./circuit_images_resized/data187.png", "code": "T(21)\nAdjoint(T(22))\nH(2)\nH(9)\nH(16)"}
+{"image": "./circuit_images_resized/data2057.png", "code": "T(0)\nAdjoint(T(10))\nH(20)\nCNOT(wires=[0, 10])"}
+{"image": "./circuit_images_resized/data7385.png", "code": "CNOT(wires=[63, 88])\nCNOT(wires=[11, 128])\nCNOT(wires=[116, 129])\nCNOT(wires=[15, 130])\nT(18)"}
+{"image": "./circuit_images_resized/data1385.png", "code": "T(19)\nCNOT(wires=[4, 15])\nT(20)\nCNOT(wires=[6, 14])\nT(4)"}
+{"image": "./circuit_images_resized/data468.png", "code": "CNOT(wires=[2, 5])\nT(8)\nT(15)\nT(23)\nT(30)"}
+{"image": "./circuit_images_resized/data8460.png", "code": "CNOT(wires=[58, 156])\nT(61)\nAdjoint(T(96))\nCNOT(wires=[97, 157])\nCNOT(wires=[63, 158])"}
+{"image": "./circuit_images_resized/data1648.png", "code": "T(26)\nCNOT(wires=[4, 13])\nCNOT(wires=[5, 11])\nH(25)\nAdjoint(T(24))"}
+{"image": "./circuit_images_resized/data8582.png", "code": "T(145)\nCNOT(wires=[32, 113])\nAdjoint(T(146))\nT(112)\nT(147)"}
+{"image": "./circuit_images_resized/data1868.png", "code": "Adjoint(T(24))\nT(19)\nAdjoint(T(25))\nT(18)\nAdjoint(T(26))"}
+{"image": "./circuit_images_resized/data7893.png", "code": "Adjoint(T(133))\nT(134)\nCNOT(wires=[17, 117])\nAdjoint(T(135))\nT(116)"}
+{"image": "./circuit_images_resized/data4945.png", "code": "T(6)\nAdjoint(T(53))\nCNOT(wires=[54, 91])\nT(7)\nAdjoint(T(51))"}
+{"image": "./circuit_images_resized/data4621.png", "code": "T(89)\nT(88)\nT(87)\nT(86)\nT(85)"}
+{"image": "./circuit_images_resized/data7728.png", "code": "Adjoint(T(117))\nCNOT(wires=[118, 132])\nCNOT(wires=[17, 133])\nCNOT(wires=[115, 134])\nCNOT(wires=[21, 135])"}
+{"image": "./circuit_images_resized/data6344.png", "code": "Adjoint(T(137))\nT(85)\nT(138)\nCNOT(wires=[57, 82])\nAdjoint(T(139))"}
+{"image": "./circuit_images_resized/data8552.png", "code": "T(104)\nT(153)\nCNOT(wires=[53, 101])\nAdjoint(T(154))\nT(155)"}
+{"image": "./circuit_images_resized/data4855.png", "code": "T(41)\nAdjoint(T(85))\nT(39)\nAdjoint(T(84))\nT(37)"}
+{"image": "./circuit_images_resized/data689.png", "code": "CNOT(wires=[3, 4])\nAdjoint(T(10))\nAdjoint(T(16))\nAdjoint(T(4))\nCNOT(wires=[7, 10])"}
+{"image": "./circuit_images_resized/data624.png", "code": "Adjoint(T(23))\nT(21)\nCNOT(wires=[6, 8])\nCNOT(wires=[13, 16])\nCNOT(wires=[20, 23])"}
+{"image": "./circuit_images_resized/data5860.png", "code": "T(129)\nCNOT(wires=[54, 76])\nAdjoint(T(130))\nT(131)\nCNOT(wires=[56, 75])"}
+{"image": "./circuit_images_resized/data5613.png", "code": "CNOT(wires=[0, 74])\nCNOT(wires=[1, 73])\nCNOT(wires=[2, 72])\nCNOT(wires=[3, 71])\nCNOT(wires=[4, 70])"}
+{"image": "./circuit_images_resized/data4040.png", "code": "CNOT(wires=[59, 80])\nCNOT(wires=[23, 81])\nT(26)\nAdjoint(T(56))\nCNOT(wires=[57, 82])"}
+{"image": "./circuit_images_resized/data1651.png", "code": "CNOT(wires=[14, 26])\nCNOT(wires=[4, 25])\nCNOT(wires=[10, 24])\nAdjoint(T(26))\nT(25)"}
+{"image": "./circuit_images_resized/data3397.png", "code": "CNOT(wires=[11, 66])\nCNOT(wires=[54, 67])\nCNOT(wires=[15, 68])\nT(18)\nAdjoint(T(51))"}
+{"image": "./circuit_images_resized/data1148.png", "code": "H(15)\nCNOT(wires=[7, 14])\nCNOT(wires=[6, 13])\nT(16)\nCNOT(wires=[0, 10])"}
+{"image": "./circuit_images_resized/data5003.png", "code": "T(93)\nT(92)\nT(91)\nT(90)\nT(89)"}
+{"image": "./circuit_images_resized/data8083.png", "code": "CNOT(wires=[12, 133])\nCNOT(wires=[120, 134])\nCNOT(wires=[16, 135])\nT(19)\nAdjoint(T(117))"}
+{"image": "./circuit_images_resized/data16.png", "code": "CNOT(wires=[2, 3])\nCNOT(wires=[5, 6])\nCNOT(wires=[8, 9])\nAdjoint(T(3))\nT(2)"}
+{"image": "./circuit_images_resized/data5364.png", "code": "CNOT(wires=[4, 81])\nCNOT(wires=[5, 80])\nCNOT(wires=[6, 79])\nCNOT(wires=[7, 78])\nCNOT(wires=[8, 77])"}
+{"image": "./circuit_images_resized/data1069.png", "code": "T(3)\nAdjoint(T(9))\nH(12)\nT(5)\nAdjoint(T(8))"}
+{"image": "./circuit_images_resized/data1491.png", "code": "CNOT(wires=[1, 10])\nCNOT(wires=[2, 8])\nH(18)\nCNOT(wires=[0, 20])\nT(1)"}
+{"image": "./circuit_images_resized/data6433.png", "code": "T(86)\nT(139)\nCNOT(wires=[57, 83])\nAdjoint(T(140))\nT(141)"}
+{"image": "./circuit_images_resized/data8130.png", "code": "CNOT(wires=[25, 114])\nAdjoint(T(140))\nT(113)\nT(141)\nCNOT(wires=[32, 110])"}
+{"image": "./circuit_images_resized/data7704.png", "code": "T(137)\nCNOT(wires=[29, 109])\nAdjoint(T(138))\nT(139)\nCNOT(wires=[31, 108])"}
+{"image": "./circuit_images_resized/data3434.png", "code": "CNOT(wires=[26, 47])\nAdjoint(T(73))\nT(74)\nCNOT(wires=[28, 46])\nAdjoint(T(75))"}
+{"image": "./circuit_images_resized/data5068.png", "code": "CNOT(wires=[59, 92])\nT(3)\nAdjoint(T(56))\nCNOT(wires=[57, 91])\nT(4)"}
+{"image": "./circuit_images_resized/data3449.png", "code": "CNOT(wires=[21, 50])\nAdjoint(T(71))\nT(72)\nCNOT(wires=[23, 49])\nAdjoint(T(73))"}
+{"image": "./circuit_images_resized/data4053.png", "code": "Adjoint(T(80))\nT(81)\nCNOT(wires=[23, 58])\nAdjoint(T(82))\nT(57)"}
+{"image": "./circuit_images_resized/data6191.png", "code": "CNOT(wires=[41, 89])\nAdjoint(T(130))\nT(131)\nCNOT(wires=[43, 88])\nAdjoint(T(132))"}
+{"image": "./circuit_images_resized/data6701.png", "code": "CNOT(wires=[32, 132])\nT(35)\nAdjoint(T(98))\nCNOT(wires=[99, 133])\nCNOT(wires=[37, 134])"}
+{"image": "./circuit_images_resized/data4535.png", "code": "Adjoint(T(40))\nCNOT(wires=[41, 91])\nT(20)\nAdjoint(T(38))\nCNOT(wires=[39, 90])"}
+{"image": "./circuit_images_resized/data8324.png", "code": "CNOT(wires=[11, 123])\nAdjoint(T(135))\nT(122)\nT(136)\nCNOT(wires=[18, 119])"}
+{"image": "./circuit_images_resized/data2840.png", "code": "T(3)\nCNOT(wires=[0, 1])\nT(0)\nAdjoint(T(1))\nH(3)"}
+{"image": "./circuit_images_resized/data1165.png", "code": "CNOT(wires=[6, 12])\nAdjoint(T(12))\nT(6)\nCNOT(wires=[0, 12])\nT(12)"}
+{"image": "./circuit_images_resized/data5282.png", "code": "CNOT(wires=[9, 79])\nCNOT(wires=[10, 78])\nCNOT(wires=[11, 77])\nCNOT(wires=[12, 76])\nT(88)"}
+{"image": "./circuit_images_resized/data5799.png", "code": "T(60)\nAdjoint(T(71))\nCNOT(wires=[72, 131])\nCNOT(wires=[62, 132])\nT(128)"}
+{"image": "./circuit_images_resized/data8427.png", "code": "CNOT(wires=[12, 123])\nAdjoint(T(135))\nT(136)\nCNOT(wires=[14, 122])\nAdjoint(T(137))"}
+{"image": "./circuit_images_resized/data293.png", "code": "CNOT(wires=[14, 15])\nCNOT(wires=[21, 23])\nCNOT(wires=[3, 7])\nT(18)\nAdjoint(T(25))"}
+{"image": "./circuit_images_resized/data6235.png", "code": "CNOT(wires=[51, 84])\nAdjoint(T(135))\nT(136)\nCNOT(wires=[53, 83])\nAdjoint(T(137))"}
+{"image": "./circuit_images_resized/data4472.png", "code": "T(23)\nAdjoint(T(35))\nCNOT(wires=[36, 90])\nT(24)\nAdjoint(T(33))"}
+{"image": "./circuit_images_resized/data3326.png", "code": "Adjoint(T(46))\nCNOT(wires=[47, 71])\nCNOT(wires=[27, 72])\nCNOT(wires=[44, 73])\nCNOT(wires=[31, 74])"}
+{"image": "./circuit_images_resized/data2772.png", "code": "CNOT(wires=[3, 18])\nH(37)\nAdjoint(T(36))\nAdjoint(T(35))\nCNOT(wires=[24, 40])"}
+{"image": "./circuit_images_resized/data7407.png", "code": "Adjoint(T(92))\nCNOT(wires=[93, 148])\nCNOT(wires=[58, 149])\nCNOT(wires=[90, 150])\nCNOT(wires=[62, 151])"}
+{"image": "./circuit_images_resized/data5712.png", "code": "H(153)\nH(154)\nH(155)\nH(156)\nH(157)"}
+{"image": "./circuit_images_resized/data4184.png", "code": "T(27)\nAdjoint(T(59))\nCNOT(wires=[60, 86])\nCNOT(wires=[29, 87])\nCNOT(wires=[57, 88])"}
+{"image": "./circuit_images_resized/data7206.png", "code": "CNOT(wires=[106, 135])\nCNOT(wires=[32, 136])\nCNOT(wires=[103, 137])\nCNOT(wires=[36, 138])\nT(39)"}
+{"image": "./circuit_images_resized/data2839.png", "code": "T(3)\nCNOT(wires=[1, 3])\nAdjoint(T(3))\nT(1)\nCNOT(wires=[0, 3])"}
+{"image": "./circuit_images_resized/data2975.png", "code": "T(11)\nCNOT(wires=[10, 11])\nAdjoint(T(11))\nT(10)\nCNOT(wires=[2, 11])"}
+{"image": "./circuit_images_resized/data7056.png", "code": "Adjoint(T(134))\nT(104)\nT(135)\nCNOT(wires=[35, 101])\nAdjoint(T(136))"}
+{"image": "./circuit_images_resized/data5193.png", "code": "CNOT(wires=[4, 51])\nAdjoint(T(87))\nCNOT(wires=[5, 49])\nAdjoint(T(86))\nCNOT(wires=[6, 47])"}
+{"image": "./circuit_images_resized/data4608.png", "code": "CNOT(wires=[52, 95])\nT(13)\nAdjoint(T(49))\nCNOT(wires=[50, 94])\nT(14)"}
+{"image": "./circuit_images_resized/data1645.png", "code": "T(6)\nAdjoint(T(9))\nH(24)\nAdjoint(T(26))\nT(13)"}
+{"image": "./circuit_images_resized/data4283.png", "code": "T(28)\nAdjoint(T(63))\nCNOT(wires=[30, 92])\nH(91)\nCNOT(wires=[28, 63])"}
+{"image": "./circuit_images_resized/data1164.png", "code": "Adjoint(T(7))\nH(13)\nCNOT(wires=[0, 7])\nCNOT(wires=[0, 12])\nT(12)"}
+{"image": "./circuit_images_resized/data7601.png", "code": "CNOT(wires=[10, 119])\nAdjoint(T(130))\nT(118)\nT(131)\nCNOT(wires=[17, 115])"}
+{"image": "./circuit_images_resized/data486.png", "code": "T(26)\nAdjoint(T(34))\nT(33)\nCNOT(wires=[15, 19])\nCNOT(wires=[9, 12])"}
+{"image": "./circuit_images_resized/data6533.png", "code": "CNOT(wires=[56, 141])\nT(59)\nAdjoint(T(83))\nCNOT(wires=[84, 142])\nCNOT(wires=[61, 143])"}
+{"image": "./circuit_images_resized/data584.png", "code": "Adjoint(T(21))\nH(10)\nH(16)\nH(23)\nT(3)"}
+{"image": "./circuit_images_resized/data5062.png", "code": "CNOT(wires=[4, 54])\nT(89)\nCNOT(wires=[5, 52])\nT(88)\nCNOT(wires=[6, 50])"}
+{"image": "./circuit_images_resized/data6513.png", "code": "T(129)\nCNOT(wires=[30, 99])\nAdjoint(T(130))\nT(98)\nT(131)"}
+{"image": "./circuit_images_resized/data1287.png", "code": "H(17)\nCNOT(wires=[0, 19])\nT(1)\nAdjoint(T(10))\nH(18)"}
+{"image": "./circuit_images_resized/data8559.png", "code": "CNOT(wires=[43, 150])\nT(46)\nAdjoint(T(105))\nCNOT(wires=[106, 151])\nCNOT(wires=[48, 152])"}
+{"image": "./circuit_images_resized/data7202.png", "code": "T(145)\nCNOT(wires=[55, 91])\nAdjoint(T(146))\nT(147)\nCNOT(wires=[57, 90])"}
+{"image": "./circuit_images_resized/data5513.png", "code": "CNOT(wires=[41, 76])\nT(5)\nAdjoint(T(38))\nCNOT(wires=[39, 75])\nT(6)"}
+{"image": "./circuit_images_resized/data7369.png", "code": "CNOT(wires=[61, 89])\nAdjoint(T(151))\nT(88)\nCNOT(wires=[117, 128])\nCNOT(wires=[13, 129])"}
+{"image": "./circuit_images_resized/data1462.png", "code": "T(15)\nT(22)\nCNOT(wires=[1, 13])\nCNOT(wires=[2, 11])\nH(21)"}
+{"image": "./circuit_images_resized/data7708.png", "code": "T(97)\nT(149)\nCNOT(wires=[56, 94])\nAdjoint(T(150))\nT(151)"}
+{"image": "./circuit_images_resized/data4267.png", "code": "CNOT(wires=[26, 63])\nAdjoint(T(90))\nT(62)\nT(91)\nT(26)"}
+{"image": "./circuit_images_resized/data8052.png", "code": "CNOT(wires=[53, 151])\nCNOT(wires=[97, 152])\nCNOT(wires=[57, 153])\nT(60)\nAdjoint(T(94))"}
+{"image": "./circuit_images_resized/data5948.png", "code": "T(77)\nT(134)\nCNOT(wires=[61, 74])\nAdjoint(T(135))\nT(136)"}
+{"image": "./circuit_images_resized/data4364.png", "code": "CNOT(wires=[25, 95])\nCNOT(wires=[26, 94])\nCNOT(wires=[27, 93])\nCNOT(wires=[28, 92])\nT(95)"}
+{"image": "./circuit_images_resized/data68.png", "code": "CNOT(wires=[12, 14])\nH(13)\nAdjoint(T(14))\nCNOT(wires=[0, 14])\nCNOT(wires=[11, 13])"}
+{"image": "./circuit_images_resized/data7118.png", "code": "T(18)\nAdjoint(T(111))\nCNOT(wires=[112, 129])\nCNOT(wires=[20, 130])\nCNOT(wires=[109, 131])"}
+{"image": "./circuit_images_resized/data3842.png", "code": "Adjoint(T(62))\nCNOT(wires=[63, 71])\nCNOT(wires=[11, 72])\nCNOT(wires=[60, 73])\nCNOT(wires=[15, 74])"}
+{"image": "./circuit_images_resized/data768.png", "code": "X(6)\nAdjoint(T(8))\nH(7)\nH(6)\nCNOT(wires=[10, 8])"}
+{"image": "./circuit_images_resized/data6466.png", "code": "T(29)\nAdjoint(T(99))\nCNOT(wires=[100, 128])\nCNOT(wires=[31, 129])\nCNOT(wires=[97, 130])"}
+{"image": "./circuit_images_resized/data3869.png", "code": "CNOT(wires=[24, 54])\nAdjoint(T(78))\nT(79)\nCNOT(wires=[26, 53])\nAdjoint(T(80))"}
+{"image": "./circuit_images_resized/data2202.png", "code": "H(33)\nT(7)\nAdjoint(T(27))\nH(34)\nT(9)"}
+{"image": "./circuit_images_resized/data165.png", "code": "Adjoint(T(26))\nH(29)\nT(12)\nAdjoint(T(27))\nH(28)"}
+{"image": "./circuit_images_resized/data2021.png", "code": "Adjoint(T(23))\nAdjoint(T(22))\nCNOT(wires=[0, 26])\nT(1)\nAdjoint(T(14))"}
+{"image": "./circuit_images_resized/data6032.png", "code": "CNOT(wires=[81, 133])\nCNOT(wires=[55, 134])\nCNOT(wires=[78, 135])\nCNOT(wires=[59, 136])\nT(62)"}
+{"image": "./circuit_images_resized/data7379.png", "code": "Adjoint(T(134))\nT(135)\nCNOT(wires=[27, 108])\nAdjoint(T(136))\nT(107)"}
+{"image": "./circuit_images_resized/data5269.png", "code": "CNOT(wires=[9, 79])\nCNOT(wires=[10, 78])\nCNOT(wires=[11, 77])\nCNOT(wires=[12, 76])\nT(88)"}
+{"image": "./circuit_images_resized/data5103.png", "code": "CNOT(wires=[5, 51])\nT(87)\nCNOT(wires=[6, 49])\nT(86)\nCNOT(wires=[7, 47])"}
+{"image": "./circuit_images_resized/data3531.png", "code": "Adjoint(T(65))\nT(66)\nCNOT(wires=[7, 59])\nAdjoint(T(67))\nT(58)"}
+{"image": "./circuit_images_resized/data1468.png", "code": "Adjoint(T(22))\nT(21)\nAdjoint(T(20))\nT(10)\nT(19)"}
+{"image": "./circuit_images_resized/data6706.png", "code": "T(130)\nCNOT(wires=[28, 102])\nAdjoint(T(131))\nT(101)\nT(132)"}
+{"image": "./circuit_images_resized/data6783.png", "code": "T(90)\nT(142)\nCNOT(wires=[56, 87])\nAdjoint(T(143))\nT(144)"}
+{"image": "./circuit_images_resized/data436.png", "code": "CNOT(wires=[1, 2])\nCNOT(wires=[4, 5])\nCNOT(wires=[7, 9])\nCNOT(wires=[11, 12])\nCNOT(wires=[14, 16])"}
+{"image": "./circuit_images_resized/data2554.png", "code": "CNOT(wires=[27, 47])\nCNOT(wires=[5, 46])\nT(6)\nAdjoint(T(23))\nH(45)"}
+{"image": "./circuit_images_resized/data3766.png", "code": "T(79)\nAdjoint(T(80))\nT(7)\nAdjoint(T(62))\nCNOT(wires=[63, 69])"}
+{"image": "./circuit_images_resized/data1792.png", "code": "T(8)\nAdjoint(T(14))\nH(22)\nCNOT(wires=[4, 16])\nH(20)"}
+{"image": "./circuit_images_resized/data7540.png", "code": "T(141)\nCNOT(wires=[38, 103])\nAdjoint(T(142))\nT(102)\nT(143)"}
+{"image": "./circuit_images_resized/data5588.png", "code": "T(75)\nCNOT(wires=[1, 42])\nT(74)\nCNOT(wires=[2, 40])\nT(73)"}
+{"image": "./circuit_images_resized/data4549.png", "code": "T(41)\nAdjoint(T(90))\nT(39)\nAdjoint(T(89))\nT(37)"}
+{"image": "./circuit_images_resized/data8155.png", "code": "T(9)\nAdjoint(T(123))\nCNOT(wires=[124, 132])\nCNOT(wires=[11, 133])\nCNOT(wires=[121, 134])"}
+{"image": "./circuit_images_resized/data7996.png", "code": "Adjoint(T(102))\nCNOT(wires=[103, 147])\nCNOT(wires=[47, 148])\nCNOT(wires=[100, 149])\nCNOT(wires=[51, 150])"}
+{"image": "./circuit_images_resized/data2856.png", "code": "CNOT(wires=[2, 5])\nT(5)\nCNOT(wires=[4, 5])\nAdjoint(T(5))\nT(4)"}
+{"image": "./circuit_images_resized/data5238.png", "code": "T(79)\nT(78)\nT(77)\nAdjoint(T(76))\nCNOT(wires=[57, 89])"}
+{"image": "./circuit_images_resized/data2529.png", "code": "H(43)\nCNOT(wires=[17, 42])\nCNOT(wires=[16, 41])\nAdjoint(T(47))\nT(46)"}
+{"image": "./circuit_images_resized/data5452.png", "code": "CNOT(wires=[36, 75])\nCNOT(wires=[34, 74])\nCNOT(wires=[32, 73])\nAdjoint(T(82))\nT(50)"}
+{"image": "./circuit_images_resized/data3229.png", "code": "CNOT(wires=[29, 42])\nAdjoint(T(71))\nT(72)\nCNOT(wires=[31, 41])\nT(13)"}
+{"image": "./circuit_images_resized/data6738.png", "code": "Adjoint(T(95))\nCNOT(wires=[96, 136])\nCNOT(wires=[43, 137])\nCNOT(wires=[93, 138])\nCNOT(wires=[47, 139])"}
+{"image": "./circuit_images_resized/data3030.png", "code": "CNOT(wires=[25, 64])\nT(28)\nAdjoint(T(37))\nCNOT(wires=[38, 65])\nCNOT(wires=[30, 66])"}
+{"image": "./circuit_images_resized/data1317.png", "code": "T(16)\nCNOT(wires=[9, 16])\nAdjoint(T(16))\nT(9)\nCNOT(wires=[7, 16])"}
+{"image": "./circuit_images_resized/data7766.png", "code": "T(46)\nAdjoint(T(100))\nCNOT(wires=[101, 146])\nCNOT(wires=[48, 147])\nCNOT(wires=[98, 148])"}
+{"image": "./circuit_images_resized/data1676.png", "code": "T(4)\nAdjoint(T(10))\nH(23)\nT(26)\nAdjoint(T(25))"}
+{"image": "./circuit_images_resized/data8590.png", "code": "CNOT(wires=[29, 144])\nT(32)\nAdjoint(T(113))\nCNOT(wires=[114, 145])\nCNOT(wires=[34, 146])"}
+{"image": "./circuit_images_resized/data583.png", "code": "T(7)\nAdjoint(T(8))\nT(13)\nAdjoint(T(14))\nT(20)"}
+{"image": "./circuit_images_resized/data2059.png", "code": "H(37)\nH(38)\nH(39)\nH(40)\nH(41)"}
+{"image": "./circuit_images_resized/data860.png", "code": "CNOT(wires=[0, 1])\nT(0)\nAdjoint(T(1))\nH(4)\nCNOT(wires=[0, 1])"}
+{"image": "./circuit_images_resized/data4125.png", "code": "CNOT(wires=[30, 86])\nT(80)\nCNOT(wires=[17, 63])\nAdjoint(T(81))\nT(62)"}
+{"image": "./circuit_images_resized/data5227.png", "code": "T(13)\nAdjoint(T(32))\nCNOT(wires=[33, 77])\nH(90)\nCNOT(wires=[0, 58])"}
+{"image": "./circuit_images_resized/data1458.png", "code": "CNOT(wires=[13, 22])\nCNOT(wires=[2, 21])\nT(3)\nAdjoint(T(9))\nH(20)"}
+{"image": "./circuit_images_resized/data7621.png", "code": "T(140)\nCNOT(wires=[37, 104])\nAdjoint(T(141))\nT(142)\nCNOT(wires=[39, 103])"}
+{"image": "./circuit_images_resized/data2586.png", "code": "H(42)\nCNOT(wires=[18, 41])\nCNOT(wires=[8, 40])\nCNOT(wires=[3, 28])\nH(47)"}
+{"image": "./circuit_images_resized/data4778.png", "code": "CNOT(wires=[51, 92])\nCNOT(wires=[49, 91])\nCNOT(wires=[47, 90])\nCNOT(wires=[45, 89])\nCNOT(wires=[43, 88])"}
+{"image": "./circuit_images_resized/data3586.png", "code": "CNOT(wires=[10, 58])\nAdjoint(T(69))\nT(57)\nT(70)\nCNOT(wires=[17, 54])"}
+{"image": "./circuit_images_resized/data3169.png", "code": "T(67)\nCNOT(wires=[25, 43])\nAdjoint(T(68))\nT(69)\nCNOT(wires=[27, 42])"}
+{"image": "./circuit_images_resized/data7943.png", "code": "T(57)\nAdjoint(T(95))\nCNOT(wires=[96, 152])\nCNOT(wires=[59, 153])\nCNOT(wires=[93, 154])"}
+{"image": "./circuit_images_resized/data5129.png", "code": "CNOT(wires=[46, 85])\nCNOT(wires=[44, 84])\nCNOT(wires=[42, 83])\nCNOT(wires=[40, 82])\nCNOT(wires=[38, 81])"}
+{"image": "./circuit_images_resized/data2366.png", "code": "T(39)\nCNOT(wires=[8, 31])\nT(40)\nCNOT(wires=[10, 30])\nT(41)"}
+{"image": "./circuit_images_resized/data7408.png", "code": "CNOT(wires=[11, 117])\nAdjoint(T(128))\nT(129)\nCNOT(wires=[13, 116])\nAdjoint(T(130))"}
+{"image": "./circuit_images_resized/data5615.png", "code": "T(70)\nT(69)\nCNOT(wires=[42, 74])\nCNOT(wires=[40, 73])\nCNOT(wires=[38, 72])"}
+{"image": "./circuit_images_resized/data6535.png", "code": "Adjoint(T(130))\nT(131)\nCNOT(wires=[34, 97])\nAdjoint(T(132))\nT(96)"}
+{"image": "./circuit_images_resized/data3408.png", "code": "T(65)\nCNOT(wires=[11, 55])\nAdjoint(T(66))\nT(67)\nCNOT(wires=[13, 54])"}
+{"image": "./circuit_images_resized/data2182.png", "code": "H(33)\nT(8)\nAdjoint(T(26))\nH(34)\nT(10)"}
+{"image": "./circuit_images_resized/data5393.png", "code": "CNOT(wires=[5, 79])\nCNOT(wires=[6, 78])\nCNOT(wires=[7, 77])\nCNOT(wires=[8, 76])\nCNOT(wires=[9, 75])"}
+{"image": "./circuit_images_resized/data6618.png", "code": "CNOT(wires=[103, 128])\nCNOT(wires=[27, 129])\nT(30)\nAdjoint(T(100))\nCNOT(wires=[101, 130])"}
+{"image": "./circuit_images_resized/data1629.png", "code": "CNOT(wires=[7, 25])\nAdjoint(T(26))\nT(25)\nCNOT(wires=[6, 26])\nCNOT(wires=[9, 25])"}
+{"image": "./circuit_images_resized/data4773.png", "code": "CNOT(wires=[12, 89])\nCNOT(wires=[13, 88])\nCNOT(wires=[14, 87])\nCNOT(wires=[15, 86])\nCNOT(wires=[16, 85])"}
+{"image": "./circuit_images_resized/data1664.png", "code": "H(23)\nT(26)\nAdjoint(T(25))\nT(13)\nT(24)"}
+{"image": "./circuit_images_resized/data4596.png", "code": "CNOT(wires=[47, 93])\nCNOT(wires=[45, 92])\nCNOT(wires=[43, 91])\nCNOT(wires=[41, 90])\nCNOT(wires=[39, 89])"}
+{"image": "./circuit_images_resized/data8055.png", "code": "T(122)\nT(133)\nCNOT(wires=[15, 119])\nAdjoint(T(134))\nT(135)"}
+{"image": "./circuit_images_resized/data8310.png", "code": "T(145)\nCNOT(wires=[36, 109])\nAdjoint(T(146))\nT(108)\nT(147)"}
+{"image": "./circuit_images_resized/data8452.png", "code": "Adjoint(T(156))\nT(157)\nCNOT(wires=[61, 96])\nAdjoint(T(158))\nT(95)"}
+{"image": "./circuit_images_resized/data865.png", "code": "CNOT(wires=[2, 6])\nT(6)\nCNOT(wires=[5, 6])\nAdjoint(T(6))\nT(5)"}
+{"image": "./circuit_images_resized/data3649.png", "code": "T(71)\nCNOT(wires=[15, 56])\nAdjoint(T(72))\nT(55)\nT(73)"}
+{"image": "./circuit_images_resized/data8071.png", "code": "T(62)\nAdjoint(T(93))\nCNOT(wires=[94, 155])\nT(128)\nCNOT(wires=[1, 127])"}
+{"image": "./circuit_images_resized/data48.png", "code": "CNOT(wires=[5, 7])\nCNOT(wires=[10, 12])\nT(3)\nCNOT(wires=[1, 2])\nT(7)"}
+{"image": "./circuit_images_resized/data6847.png", "code": "Adjoint(T(146))\nT(85)\nT(147)\nCNOT(wires=[20, 128])\nT(23)"}
+{"image": "./circuit_images_resized/data420.png", "code": "H(19)\nH(23)\nCNOT(wires=[1, 2])\nCNOT(wires=[5, 6])\nCNOT(wires=[9, 10])"}
+{"image": "./circuit_images_resized/data5652.png", "code": "Adjoint(T(32))\nCNOT(wires=[33, 68])\nH(72)\nCNOT(wires=[0, 40])\nCNOT(wires=[1, 38])"}
+{"image": "./circuit_images_resized/data52.png", "code": "CNOT(wires=[3, 4])\nCNOT(wires=[7, 9])\nCNOT(wires=[12, 14])\nCNOT(wires=[1, 2])\nCNOT(wires=[5, 6])"}
+{"image": "./circuit_images_resized/data3464.png", "code": "T(56)\nT(68)\nCNOT(wires=[16, 53])\nAdjoint(T(69))\nT(70)"}
+{"image": "./circuit_images_resized/data1219.png", "code": "Adjoint(T(17))\nAdjoint(T(18))\nCNOT(wires=[4, 17])\nCNOT(wires=[6, 18])\nT(17)"}
+{"image": "./circuit_images_resized/data8109.png", "code": "Adjoint(T(131))\nT(124)\nT(132)\nCNOT(wires=[12, 121])\nAdjoint(T(133))"}
+{"image": "./circuit_images_resized/data7611.png", "code": "CNOT(wires=[115, 133])\nCNOT(wires=[21, 134])\nCNOT(wires=[112, 135])\nCNOT(wires=[25, 136])\nT(28)"}
+{"image": "./circuit_images_resized/data5091.png", "code": "CNOT(wires=[39, 82])\nCNOT(wires=[37, 81])\nCNOT(wires=[35, 80])\nCNOT(wires=[33, 79])\nAdjoint(T(93))"}
+{"image": "./circuit_images_resized/data5984.png", "code": "Adjoint(T(135))\nT(76)\nT(136)\nAdjoint(T(137))\nCNOT(wires=[85, 128])"}
+{"image": "./circuit_images_resized/data3791.png", "code": "CNOT(wires=[15, 73])\nCNOT(wires=[57, 74])\nCNOT(wires=[19, 75])\nT(22)\nAdjoint(T(54))"}
+{"image": "./circuit_images_resized/data487.png", "code": "CNOT(wires=[16, 20])\nCNOT(wires=[24, 27])\nCNOT(wires=[31, 34])\nT(19)\nCNOT(wires=[15, 23])"}
+{"image": "./circuit_images_resized/data3821.png", "code": "CNOT(wires=[58, 74])\nCNOT(wires=[18, 75])\nT(21)\nAdjoint(T(55))\nCNOT(wires=[56, 76])"}
+{"image": "./circuit_images_resized/data3190.png", "code": "CNOT(wires=[24, 44])\nAdjoint(T(68))\nT(69)\nCNOT(wires=[26, 43])\nAdjoint(T(70))"}
+{"image": "./circuit_images_resized/data3819.png", "code": "CNOT(wires=[28, 51])\nAdjoint(T(79))\nT(80)\nCNOT(wires=[30, 50])\nCNOT(wires=[63, 70])"}
+{"image": "./circuit_images_resized/data8510.png", "code": "CNOT(wires=[101, 154])\nCNOT(wires=[55, 155])\nT(58)\nAdjoint(T(98))\nCNOT(wires=[99, 156])"}
+{"image": "./circuit_images_resized/data8511.png", "code": "CNOT(wires=[60, 157])\nCNOT(wires=[96, 158])\nT(133)\nCNOT(wires=[6, 127])\nAdjoint(T(134))"}
+{"image": "./circuit_images_resized/data5447.png", "code": "CNOT(wires=[2, 80])\nCNOT(wires=[3, 79])\nCNOT(wires=[4, 78])\nCNOT(wires=[5, 77])\nCNOT(wires=[6, 76])"}
+{"image": "./circuit_images_resized/data4550.png", "code": "Adjoint(T(88))\nT(35)\nAdjoint(T(87))\nT(33)\nCNOT(wires=[14, 95])"}
+{"image": "./circuit_images_resized/data8114.png", "code": "Adjoint(T(145))\nT(146)\nCNOT(wires=[41, 105])\nAdjoint(T(147))\nT(104)"}
+{"image": "./circuit_images_resized/data2062.png", "code": "Adjoint(T(32))\nT(17)\nCNOT(wires=[15, 32])\nT(32)\nCNOT(wires=[15, 17])"}
+{"image": "./circuit_images_resized/data6148.png", "code": "CNOT(wires=[46, 132])\nT(49)\nAdjoint(T(84))\nCNOT(wires=[85, 133])\nCNOT(wires=[51, 134])"}
+{"image": "./circuit_images_resized/data6137.png", "code": "T(134)\nCNOT(wires=[54, 81])\nAdjoint(T(135))\nT(136)\nCNOT(wires=[56, 80])"}
+{"image": "./circuit_images_resized/data1007.png", "code": "T(12)\nCNOT(wires=[9, 12])\nAdjoint(T(12))\nT(9)\nCNOT(wires=[3, 12])"}
+{"image": "./circuit_images_resized/data7697.png", "code": "CNOT(wires=[35, 141])\nT(38)\nAdjoint(T(104))\nCNOT(wires=[105, 142])\nCNOT(wires=[40, 143])"}
+{"image": "./circuit_images_resized/data4812.png", "code": "CNOT(wires=[54, 93])\nCNOT(wires=[52, 92])\nCNOT(wires=[50, 91])\nCNOT(wires=[48, 90])\nCNOT(wires=[46, 89])"}
+{"image": "./circuit_images_resized/data4723.png", "code": "CNOT(wires=[12, 47])\nT(90)\nCNOT(wires=[13, 45])\nT(89)\nCNOT(wires=[14, 43])"}
+{"image": "./circuit_images_resized/data8184.png", "code": "T(138)\nCNOT(wires=[22, 116])\nAdjoint(T(139))\nT(115)\nT(140)"}
+{"image": "./circuit_images_resized/data3111.png", "code": "CNOT(wires=[26, 41])\nAdjoint(T(67))\nT(68)\nCNOT(wires=[28, 40])\nAdjoint(T(69))"}
+{"image": "./circuit_images_resized/data1824.png", "code": "Adjoint(T(23))\nT(16)\nAdjoint(T(24))\nT(15)\nCNOT(wires=[1, 20])"}
+{"image": "./circuit_images_resized/data3835.png", "code": "CNOT(wires=[13, 73])\nT(16)\nAdjoint(T(58))\nCNOT(wires=[59, 74])\nCNOT(wires=[18, 75])"}
+{"image": "./circuit_images_resized/data3026.png", "code": "Adjoint(T(66))\nCNOT(wires=[26, 64])\nCNOT(wires=[37, 65])\nCNOT(wires=[30, 66])\nT(64)"}
+{"image": "./circuit_images_resized/data7701.png", "code": "T(122)\nT(129)\nCNOT(wires=[11, 119])\nAdjoint(T(130))\nT(131)"}
+{"image": "./circuit_images_resized/data5369.png", "code": "CNOT(wires=[43, 80])\nCNOT(wires=[41, 79])\nCNOT(wires=[39, 78])\nCNOT(wires=[37, 77])\nCNOT(wires=[35, 76])"}
+{"image": "./circuit_images_resized/data7818.png", "code": "Adjoint(T(102))\nCNOT(wires=[103, 145])\nCNOT(wires=[45, 146])\nCNOT(wires=[100, 147])\nCNOT(wires=[49, 148])"}
+{"image": "./circuit_images_resized/data2639.png", "code": "CNOT(wires=[3, 44])\nT(4)\nAdjoint(T(23))\nH(43)\nCNOT(wires=[22, 42])"}
+{"image": "./circuit_images_resized/data1453.png", "code": "Adjoint(T(21))\nT(20)\nT(1)\nAdjoint(T(14))\nH(23)"}
+{"image": "./circuit_images_resized/data6893.png", "code": "T(129)\nCNOT(wires=[22, 107])\nAdjoint(T(130))\nT(106)\nT(131)"}
+{"image": "./circuit_images_resized/data1550.png", "code": "Adjoint(T(21))\nCNOT(wires=[2, 18])\nCNOT(wires=[4, 19])\nCNOT(wires=[6, 20])\nCNOT(wires=[8, 21])"}
+{"image": "./circuit_images_resized/data3219.png", "code": "CNOT(wires=[49, 66])\nCNOT(wires=[20, 67])\nCNOT(wires=[46, 68])\nCNOT(wires=[24, 69])\nT(27)"}
+{"image": "./circuit_images_resized/data5334.png", "code": "CNOT(wires=[9, 77])\nCNOT(wires=[10, 76])\nCNOT(wires=[11, 75])\nT(86)\nT(85)"}
+{"image": "./circuit_images_resized/data1017.png", "code": "CNOT(wires=[5, 13])\nAdjoint(T(14))\nAdjoint(T(13))\nCNOT(wires=[3, 14])\nT(14)"}
+{"image": "./circuit_images_resized/data5643.png", "code": "T(70)\nT(69)\nT(68)\nCNOT(wires=[40, 72])\nCNOT(wires=[38, 71])"}
+{"image": "./circuit_images_resized/data6292.png", "code": "CNOT(wires=[40, 131])\nCNOT(wires=[90, 132])\nCNOT(wires=[44, 133])\nT(47)\nAdjoint(T(87))"}
+{"image": "./circuit_images_resized/data3993.png", "code": "T(53)\nCNOT(wires=[12, 75])\nCNOT(wires=[62, 76])\nCNOT(wires=[16, 77])\nT(19)"}
+{"image": "./circuit_images_resized/data119.png", "code": "T(4)\nCNOT(wires=[0, 2])\nT(5)\nCNOT(wires=[1, 3])\nT(10)"}
+{"image": "./circuit_images_resized/data6428.png", "code": "T(57)\nAdjoint(T(83))\nCNOT(wires=[84, 140])\nCNOT(wires=[59, 141])\nCNOT(wires=[81, 142])"}
+{"image": "./circuit_images_resized/data8089.png", "code": "CNOT(wires=[57, 153])\nCNOT(wires=[95, 154])\nCNOT(wires=[61, 155])\nCNOT(wires=[93, 156])\nH(128)"}
+{"image": "./circuit_images_resized/data506.png", "code": "T(5)\nAdjoint(T(7))\nH(9)\nT(12)\nAdjoint(T(19))"}
+{"image": "./circuit_images_resized/data780.png", "code": "T(1)\nCNOT(wires=[0, 2])\nT(2)\nCNOT(wires=[0, 1])\nT(0)"}
+{"image": "./circuit_images_resized/data6243.png", "code": "Adjoint(T(132))\nT(133)\nCNOT(wires=[46, 87])\nAdjoint(T(134))\nT(86)"}
+{"image": "./circuit_images_resized/data6266.png", "code": "CNOT(wires=[83, 137])\nCNOT(wires=[56, 138])\nT(59)\nAdjoint(T(80))\nCNOT(wires=[81, 139])"}
+{"image": "./circuit_images_resized/data2254.png", "code": "CNOT(wires=[25, 39])\nAdjoint(T(33))\nAdjoint(T(34))\nAdjoint(T(35))\nAdjoint(T(36))"}
+{"image": "./circuit_images_resized/data7744.png", "code": "T(8)\nAdjoint(T(121))\nCNOT(wires=[122, 129])\nCNOT(wires=[10, 130])\nCNOT(wires=[119, 131])"}
+{"image": "./circuit_images_resized/data127.png", "code": "CNOT(wires=[0, 2])\nCNOT(wires=[1, 3])\nCNOT(wires=[6, 8])\nCNOT(wires=[7, 9])\nCNOT(wires=[14, 16])"}
+{"image": "./circuit_images_resized/data6299.png", "code": "CNOT(wires=[58, 81])\nAdjoint(T(140))\nT(80)\nT(141)\nCNOT(wires=[33, 128])"}
+{"image": "./circuit_images_resized/data315.png", "code": "Adjoint(T(15))\nAdjoint(T(22))\nCNOT(wires=[0, 15])\nT(15)\nCNOT(wires=[7, 15])"}
+{"image": "./circuit_images_resized/data2418.png", "code": "CNOT(wires=[15, 31])\nCNOT(wires=[46, 35])\nCNOT(wires=[46, 33])\nCNOT(wires=[46, 32])\nCNOT(wires=[44, 33])"}
+{"image": "./circuit_images_resized/data6023.png", "code": "Adjoint(T(137))\nT(75)\nT(42)\nAdjoint(T(86))\nCNOT(wires=[87, 128])"}
+{"image": "./circuit_images_resized/data7448.png", "code": "CNOT(wires=[14, 130])\nT(17)\nAdjoint(T(114))\nCNOT(wires=[115, 131])\nCNOT(wires=[19, 132])"}
+{"image": "./circuit_images_resized/data917.png", "code": "CNOT(wires=[6, 14])\nT(6)\nAdjoint(T(14))\nH(15)\nCNOT(wires=[6, 14])"}
+{"image": "./circuit_images_resized/data6970.png", "code": "CNOT(wires=[52, 143])\nCNOT(wires=[90, 144])\nCNOT(wires=[56, 145])\nT(59)\nAdjoint(T(87))"}
+{"image": "./circuit_images_resized/data2000.png", "code": "T(28)\nCNOT(wires=[0, 18])\nCNOT(wires=[1, 16])\nH(27)\nAdjoint(T(26))"}
+{"image": "./circuit_images_resized/data6843.png", "code": "T(100)\nT(135)\nCNOT(wires=[39, 97])\nAdjoint(T(136))\nT(137)"}
+{"image": "./circuit_images_resized/data2410.png", "code": "CNOT(wires=[13, 31])\nT(45)\nCNOT(wires=[15, 30])\nT(13)\nAdjoint(T(31))"}
+{"image": "./circuit_images_resized/data4911.png", "code": "T(16)\nAdjoint(T(34))\nCNOT(wires=[35, 82])\nT(17)\nAdjoint(T(32))"}
+{"image": "./circuit_images_resized/data7182.png", "code": "CNOT(wires=[17, 112])\nAdjoint(T(129))\nT(130)\nCNOT(wires=[19, 111])\nAdjoint(T(131))"}
+{"image": "./circuit_images_resized/data4821.png", "code": "CNOT(wires=[10, 90])\nCNOT(wires=[11, 89])\nCNOT(wires=[12, 88])\nCNOT(wires=[13, 87])\nCNOT(wires=[14, 86])"}
+{"image": "./circuit_images_resized/data5512.png", "code": "T(3)\nAdjoint(T(42))\nCNOT(wires=[43, 77])\nT(4)\nAdjoint(T(40))"}
+{"image": "./circuit_images_resized/data1292.png", "code": "CNOT(wires=[9, 17])\nCNOT(wires=[2, 16])\nT(18)\nAdjoint(T(17))\nT(9)"}
+{"image": "./circuit_images_resized/data3133.png", "code": "Adjoint(T(70))\nT(39)\nCNOT(wires=[17, 64])\nT(20)\nAdjoint(T(45))"}
+{"image": "./circuit_images_resized/data830.png", "code": "CNOT(wires=[1, 7])\nT(8)\nT(1)\nAdjoint(T(7))\nH(3)"}
+{"image": "./circuit_images_resized/data3812.png", "code": "CNOT(wires=[28, 51])\nAdjoint(T(80))\nT(50)\nCNOT(wires=[7, 70])\nT(10)"}
+{"image": "./circuit_images_resized/data5347.png", "code": "T(85)\nCNOT(wires=[1, 52])\nT(84)\nCNOT(wires=[2, 50])\nT(83)"}
+{"image": "./circuit_images_resized/data4724.png", "code": "T(88)\nCNOT(wires=[15, 41])\nT(87)\nCNOT(wires=[16, 39])\nT(86)"}
+{"image": "./circuit_images_resized/data2517.png", "code": "T(8)\nAdjoint(T(21))\nH(45)\nCNOT(wires=[20, 44])\nCNOT(wires=[9, 43])"}
+{"image": "./circuit_images_resized/data1519.png", "code": "Adjoint(T(18))\nAdjoint(T(19))\nCNOT(wires=[6, 18])\nCNOT(wires=[8, 19])\nT(18)"}
+{"image": "./circuit_images_resized/data6396.png", "code": "CNOT(wires=[94, 131])\nCNOT(wires=[39, 132])\nT(42)\nAdjoint(T(91))\nCNOT(wires=[92, 133])"}
+{"image": "./circuit_images_resized/data7117.png", "code": "CNOT(wires=[61, 87])\nAdjoint(T(148))\nT(149)\nCNOT(wires=[63, 86])\nCNOT(wires=[15, 128])"}
+{"image": "./circuit_images_resized/data4249.png", "code": "T(61)\nT(90)\nT(26)\nAdjoint(T(62))\nCNOT(wires=[63, 88])"}
+{"image": "./circuit_images_resized/data2215.png", "code": "Adjoint(T(32))\nT(30)\nAdjoint(T(33))\nT(29)\nAdjoint(T(34))"}
+{"image": "./circuit_images_resized/data3390.png", "code": "CNOT(wires=[53, 68])\nCNOT(wires=[18, 69])\nCNOT(wires=[50, 70])\nCNOT(wires=[22, 71])\nT(25)"}
+{"image": "./circuit_images_resized/data4534.png", "code": "CNOT(wires=[45, 93])\nT(18)\nAdjoint(T(42))\nCNOT(wires=[43, 92])\nT(19)"}
+{"image": "./circuit_images_resized/data5981.png", "code": "CNOT(wires=[76, 135])\nCNOT(wires=[61, 136])\nCNOT(wires=[74, 137])\nT(128)\nCNOT(wires=[46, 83])"}
+{"image": "./circuit_images_resized/data772.png", "code": "Adjoint(T(9))\nH(8)\nCNOT(wires=[4, 6])\nCNOT(wires=[10, 9])\nCNOT(wires=[8, 0])"}
+{"image": "./circuit_images_resized/data6863.png", "code": "CNOT(wires=[98, 136])\nCNOT(wires=[40, 137])\nT(43)\nAdjoint(T(95))\nCNOT(wires=[96, 138])"}
+{"image": "./circuit_images_resized/data5702.png", "code": "CNOT(wires=[33, 65])\nAdjoint(T(65))\nT(33)\nCNOT(wires=[0, 65])\nT(65)"}
+{"image": "./circuit_images_resized/data205.png", "code": "T(20)\nCNOT(wires=[16, 18])\nT(12)\nCNOT(wires=[9, 11])\nCNOT(wires=[22, 23])"}
+{"image": "./circuit_images_resized/data7383.png", "code": "CNOT(wires=[52, 94])\nAdjoint(T(146))\nT(147)\nCNOT(wires=[54, 93])\nAdjoint(T(148))"}
+{"image": "./circuit_images_resized/data3743.png", "code": "CNOT(wires=[7, 69])\nT(10)\nAdjoint(T(60))\nCNOT(wires=[61, 70])\nCNOT(wires=[12, 71])"}
+{"image": "./circuit_images_resized/data6753.png", "code": "T(61)\nAdjoint(T(84))\nCNOT(wires=[85, 145])\nCNOT(wires=[63, 146])\nT(128)"}
+{"image": "./circuit_images_resized/data5204.png", "code": "CNOT(wires=[44, 83])\nCNOT(wires=[42, 82])\nCNOT(wires=[40, 81])\nCNOT(wires=[38, 80])\nCNOT(wires=[36, 79])"}
+{"image": "./circuit_images_resized/data1261.png", "code": "T(18)\nCNOT(wires=[12, 20])\nCNOT(wires=[2, 19])\nCNOT(wires=[8, 18])\nAdjoint(T(20))"}
+{"image": "./circuit_images_resized/data4119.png", "code": "CNOT(wires=[19, 81])\nT(22)\nAdjoint(T(60))\nCNOT(wires=[61, 82])\nCNOT(wires=[24, 83])"}
+{"image": "./circuit_images_resized/data6209.png", "code": "CNOT(wires=[45, 87])\nAdjoint(T(132))\nT(133)\nCNOT(wires=[47, 86])\nAdjoint(T(134))"}
+{"image": "./circuit_images_resized/data3156.png", "code": "CNOT(wires=[30, 40])\nCNOT(wires=[48, 64])\nCNOT(wires=[18, 65])\nT(21)\nAdjoint(T(45))"}
+{"image": "./circuit_images_resized/data7.png", "code": "CNOT(wires=[2, 4])\nAdjoint(T(4))\nT(2)\nCNOT(wires=[1, 4])\nT(4)"}
+{"image": "./circuit_images_resized/data316.png", "code": "Adjoint(T(15))\nT(7)\nCNOT(wires=[0, 15])\nT(15)\nCNOT(wires=[0, 7])"}
+{"image": "./circuit_images_resized/data1190.png", "code": "Adjoint(T(16))\nT(10)\nCNOT(wires=[2, 14])\nCNOT(wires=[4, 15])\nCNOT(wires=[6, 16])"}
+{"image": "./circuit_images_resized/data2342.png", "code": "Adjoint(T(28))\nH(40)\nT(14)\nAdjoint(T(27))\nH(41)"}
+{"image": "./circuit_images_resized/data7288.png", "code": "CNOT(wires=[31, 105])\nAdjoint(T(136))\nT(137)\nCNOT(wires=[33, 104])\nAdjoint(T(138))"}
+{"image": "./circuit_images_resized/data7292.png", "code": "T(147)\nCNOT(wires=[58, 90])\nAdjoint(T(148))\nT(149)\nCNOT(wires=[60, 89])"}
+{"image": "./circuit_images_resized/data6038.png", "code": "CNOT(wires=[82, 132])\nCNOT(wires=[52, 133])\nT(55)\nAdjoint(T(79))\nCNOT(wires=[80, 134])"}
+{"image": "./circuit_images_resized/data2901.png", "code": "CNOT(wires=[2, 5])\nCNOT(wires=[6, 7])\nAdjoint(T(7))\nCNOT(wires=[3, 7])\nT(7)"}
+{"image": "./circuit_images_resized/data7817.png", "code": "CNOT(wires=[108, 141])\nCNOT(wires=[36, 142])\nCNOT(wires=[105, 143])\nCNOT(wires=[40, 144])\nT(43)"}
+{"image": "./circuit_images_resized/data7997.png", "code": "T(54)\nAdjoint(T(97))\nCNOT(wires=[98, 151])\nCNOT(wires=[56, 152])\nCNOT(wires=[95, 153])"}
+{"image": "./circuit_images_resized/data3918.png", "code": "T(82)\nCNOT(wires=[31, 51])\nCNOT(wires=[10, 73])\nT(13)\nAdjoint(T(61))"}
+{"image": "./circuit_images_resized/data7896.png", "code": "T(142)\nCNOT(wires=[35, 107])\nAdjoint(T(143))\nT(106)\nT(144)"}
+{"image": "./circuit_images_resized/data3870.png", "code": "T(52)\nT(81)\nT(8)\nAdjoint(T(63))\nCNOT(wires=[10, 72])"}
+{"image": "./circuit_images_resized/data2771.png", "code": "T(40)\nAdjoint(T(39))\nT(22)\nT(38)\nCNOT(wires=[2, 20])"}
+{"image": "./circuit_images_resized/data6287.png", "code": "CNOT(wires=[38, 92])\nAdjoint(T(131))\nT(91)\nT(132)\nCNOT(wires=[45, 88])"}
+{"image": "./circuit_images_resized/data2307.png", "code": "T(6)\nAdjoint(T(30))\nH(36)\nT(8)\nAdjoint(T(29))"}
+{"image": "./circuit_images_resized/data4695.png", "code": "T(10)\nAdjoint(T(52))\nCNOT(wires=[53, 94])\nT(11)\nAdjoint(T(50))"}
+{"image": "./circuit_images_resized/data2090.png", "code": "T(33)\nT(34)\nCNOT(wires=[22, 32])\nCNOT(wires=[21, 33])\nCNOT(wires=[20, 34])"}
+{"image": "./circuit_images_resized/data152.png", "code": "Adjoint(T(24))\nH(27)\nT(18)\nAdjoint(T(25))\nH(26)"}
+{"image": "./circuit_images_resized/data96.png", "code": "CNOT(wires=[20, 23])\nT(25)\nCNOT(wires=[21, 22])\nT(0)\nAdjoint(T(3))"}
+{"image": "./circuit_images_resized/data6907.png", "code": "T(132)\nCNOT(wires=[31, 102])\nAdjoint(T(133))\nT(134)\nCNOT(wires=[33, 101])"}
+{"image": "./circuit_images_resized/data7783.png", "code": "CNOT(wires=[45, 146])\nT(48)\nAdjoint(T(99))\nCNOT(wires=[100, 147])\nCNOT(wires=[50, 148])"}
+{"image": "./circuit_images_resized/data6450.png", "code": "Adjoint(T(128))\nT(99)\nT(129)\nCNOT(wires=[34, 96])\nAdjoint(T(130))"}
+{"image": "./circuit_images_resized/data4640.png", "code": "T(19)\nAdjoint(T(36))\nCNOT(wires=[37, 87])\nT(20)\nAdjoint(T(34))"}
+{"image": "./circuit_images_resized/data5772.png", "code": "CNOT(wires=[62, 131])\nAdjoint(T(128))\nT(73)\nT(129)\nCNOT(wires=[60, 70])"}
+{"image": "./circuit_images_resized/data4301.png", "code": "CNOT(wires=[87, 94])\nH(95)\nCNOT(wires=[89, 90])\nCNOT(wires=[88, 91])\nCNOT(wires=[87, 92])"}
+{"image": "./circuit_images_resized/data3100.png", "code": "CNOT(wires=[29, 39])\nAdjoint(T(68))\nT(69)\nCNOT(wires=[31, 38])\nCNOT(wires=[19, 64])"}
+{"image": "./circuit_images_resized/data7594.png", "code": "Adjoint(T(115))\nCNOT(wires=[116, 132])\nCNOT(wires=[19, 133])\nCNOT(wires=[113, 134])\nCNOT(wires=[23, 135])"}
+{"image": "./circuit_images_resized/data7546.png", "code": "CNOT(wires=[114, 133])\nCNOT(wires=[22, 134])\nCNOT(wires=[111, 135])\nCNOT(wires=[26, 136])\nT(29)"}
+{"image": "./circuit_images_resized/data3850.png", "code": "CNOT(wires=[13, 73])\nCNOT(wires=[59, 74])\nCNOT(wires=[17, 75])\nT(20)\nAdjoint(T(56))"}
+{"image": "./circuit_images_resized/data2785.png", "code": "H(37)\nCNOT(wires=[18, 36])\nCNOT(wires=[3, 35])\nAdjoint(T(39))\nT(23)"}
+{"image": "./circuit_images_resized/data6406.png", "code": "CNOT(wires=[93, 132])\nCNOT(wires=[41, 133])\nT(44)\nAdjoint(T(90))\nCNOT(wires=[91, 134])"}
+{"image": "./circuit_images_resized/data2929.png", "code": "H(10)\nCNOT(wires=[0, 1])\nCNOT(wires=[10, 11])\nAdjoint(T(11))\nCNOT(wires=[2, 11])"}
+{"image": "./circuit_images_resized/data7598.png", "code": "CNOT(wires=[46, 145])\nCNOT(wires=[98, 146])\nCNOT(wires=[50, 147])\nT(53)\nAdjoint(T(95))"}
+{"image": "./circuit_images_resized/data6197.png", "code": "Adjoint(T(83))\nCNOT(wires=[84, 135])\nCNOT(wires=[54, 136])\nCNOT(wires=[81, 137])\nCNOT(wires=[58, 138])"}
+{"image": "./circuit_images_resized/data7437.png", "code": "CNOT(wires=[48, 145])\nT(51)\nAdjoint(T(95))\nCNOT(wires=[96, 146])\nCNOT(wires=[53, 147])"}
+{"image": "./circuit_images_resized/data2703.png", "code": "H(40)\nCNOT(wires=[19, 39])\nCNOT(wires=[5, 38])\nCNOT(wires=[0, 29])\nAdjoint(T(44))"}
+{"image": "./circuit_images_resized/data3180.png", "code": "T(69)\nCNOT(wires=[29, 41])\nAdjoint(T(70))\nT(71)\nCNOT(wires=[31, 40])"}
+{"image": "./circuit_images_resized/data5340.png", "code": "T(52)\nAdjoint(T(84))\nT(50)\nAdjoint(T(83))\nT(48)"}
+{"image": "./circuit_images_resized/data755.png", "code": "CNOT(wires=[0, 2])\nT(2)\nCNOT(wires=[0, 1])\nT(0)\nAdjoint(T(1))"}
+{"image": "./circuit_images_resized/data7052.png", "code": "T(53)\nAdjoint(T(91))\nCNOT(wires=[92, 144])\nCNOT(wires=[55, 145])\nCNOT(wires=[89, 146])"}
+{"image": "./circuit_images_resized/data727.png", "code": "Adjoint(T(3))\nH(4)\nCNOT(wires=[2, 3])\nCNOT(wires=[4, 6])\nT(6)"}
+{"image": "./circuit_images_resized/data3780.png", "code": "CNOT(wires=[20, 55])\nAdjoint(T(76))\nT(54)\nT(77)\nCNOT(wires=[27, 51])"}
+{"image": "./circuit_images_resized/data7187.png", "code": "Adjoint(T(143))\nT(95)\nT(144)\nCNOT(wires=[53, 92])\nAdjoint(T(145))"}
+{"image": "./circuit_images_resized/data6279.png", "code": "Adjoint(T(134))\nT(87)\nT(135)\nCNOT(wires=[52, 84])\nAdjoint(T(136))"}
+{"image": "./circuit_images_resized/data2926.png", "code": "Adjoint(T(10))\nCNOT(wires=[2, 10])\nH(10)\nCNOT(wires=[1, 10])\nAdjoint(T(10))"}
+{"image": "./circuit_images_resized/data2764.png", "code": "CNOT(wires=[1, 23])\nH(40)\nAdjoint(T(39))\nT(38)\nAdjoint(T(37))"}
+{"image": "./circuit_images_resized/data3439.png", "code": "T(59)\nT(65)\nCNOT(wires=[10, 56])\nAdjoint(T(66))\nT(67)"}
+{"image": "./circuit_images_resized/data1135.png", "code": "T(7)\nCNOT(wires=[0, 17])\nCNOT(wires=[9, 16])\nCNOT(wires=[2, 15])\nT(17)"}
+{"image": "./circuit_images_resized/data8547.png", "code": "Adjoint(T(138))\nT(139)\nCNOT(wires=[19, 120])\nAdjoint(T(140))\nT(119)"}
+{"image": "./circuit_images_resized/data156.png", "code": "CNOT(wires=[26, 28])\nCNOT(wires=[27, 29])\nAdjoint(T(28))\nT(26)\nAdjoint(T(29))"}
+{"image": "./circuit_images_resized/data2098.png", "code": "Adjoint(T(33))\nAdjoint(T(34))\nAdjoint(T(35))\nCNOT(wires=[9, 32])\nCNOT(wires=[11, 33])"}
+{"image": "./circuit_images_resized/data4140.png", "code": "CNOT(wires=[30, 56])\nAdjoint(T(86))\nCNOT(wires=[63, 81])\nCNOT(wires=[20, 82])\nT(23)"}
+{"image": "./circuit_images_resized/data3622.png", "code": "CNOT(wires=[16, 55])\nAdjoint(T(71))\nT(72)\nCNOT(wires=[18, 54])\nAdjoint(T(73))"}
+{"image": "./circuit_images_resized/data1794.png", "code": "CNOT(wires=[16, 21])\nCNOT(wires=[15, 22])\nCNOT(wires=[14, 23])\nAdjoint(T(20))\nAdjoint(T(21))"}
+{"image": "./circuit_images_resized/data6255.png", "code": "T(39)\nAdjoint(T(91))\nCNOT(wires=[92, 130])\nCNOT(wires=[41, 131])\nCNOT(wires=[89, 132])"}
+{"image": "./circuit_images_resized/data245.png", "code": "CNOT(wires=[11, 12])\nT(16)\nCNOT(wires=[13, 14])\nT(20)\nCNOT(wires=[17, 18])"}
+{"image": "./circuit_images_resized/data5624.png", "code": "CNOT(wires=[39, 72])\nT(3)\nAdjoint(T(36))\nCNOT(wires=[37, 71])\nT(4)"}
+{"image": "./circuit_images_resized/data6831.png", "code": "Adjoint(T(137))\nT(96)\nT(138)\nCNOT(wires=[46, 93])\nAdjoint(T(139))"}
+{"image": "./circuit_images_resized/data8533.png", "code": "T(146)\nCNOT(wires=[35, 111])\nAdjoint(T(147))\nT(110)\nT(148)"}
+{"image": "./circuit_images_resized/data3767.png", "code": "CNOT(wires=[9, 70])\nCNOT(wires=[60, 71])\nCNOT(wires=[13, 72])\nT(16)\nAdjoint(T(57))"}
+{"image": "./circuit_images_resized/data3270.png", "code": "T(69)\nCNOT(wires=[25, 45])\nAdjoint(T(70))\nT(71)\nCNOT(wires=[27, 44])"}
+{"image": "./circuit_images_resized/data2616.png", "code": "T(26)\nT(44)\nCNOT(wires=[4, 24])\nCNOT(wires=[5, 22])\nH(43)"}
+{"image": "./circuit_images_resized/data7223.png", "code": "CNOT(wires=[47, 143])\nT(50)\nAdjoint(T(94))\nCNOT(wires=[95, 144])\nCNOT(wires=[52, 145])"}
+{"image": "./circuit_images_resized/data6551.png", "code": "CNOT(wires=[63, 81])\nT(27)\nAdjoint(T(101))\nCNOT(wires=[102, 128])\nCNOT(wires=[29, 129])"}
+{"image": "./circuit_images_resized/data5379.png", "code": "CNOT(wires=[5, 43])\nT(79)\nCNOT(wires=[6, 41])\nT(78)\nCNOT(wires=[7, 39])"}
+{"image": "./circuit_images_resized/data3489.png", "code": "Adjoint(T(66))\nT(58)\nT(67)\nCNOT(wires=[13, 55])\nAdjoint(T(68))"}
